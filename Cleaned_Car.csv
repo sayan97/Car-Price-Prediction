@@ -1,0 +1,1026 @@
+,Name,Label,Price,Kms_driven,Fuel_type,Owner,Year,Company
+0,Ford Figo Duratec,PLATINUM,380000,35056,Petrol,2nd Owner,2015,Ford
+1,Maruti Suzuki Wagon,PLATINUM,465000,44000,Petrol,2nd Owner,2016,Maruti
+2,Hyundai Creta 1.6,PLATINUM,1350000,42917,Petrol,2nd Owner,2018,Hyundai
+3,Hyundai Venue,PLATINUM,1019699,16112,Petrol,2nd Owner,2019,Hyundai
+4,Honda Jazz,PLATINUM,713499,30988,Petrol,2nd Owner,2017,Honda
+5,Hyundai i20,PLATINUM,391099,69163,Diesel,2nd Owner,2013,Hyundai
+6,Maruti Suzuki Swift,PLATINUM,474299,42859,Petrol,2nd Owner,2015,Maruti
+7,Toyota Corolla Altis,PLATINUM,1252999,34919,Petrol,1st Owner,2017,Toyota
+8,Honda Amaze,PLATINUM,393699,44940,Petrol,2nd Owner,2013,Honda
+9,Hyundai Elite i20,PLATINUM,730899,13687,Petrol,1st Owner,2017,Hyundai
+10,Maruti Suzuki Alto,PLATINUM,343099,29848,Petrol,2nd Owner,2018,Maruti
+11,Honda Jazz,PLATINUM,707599,21426,Petrol,2nd Owner,2018,Honda
+12,Maruti Suzuki Baleno,PLATINUM,688899,68177,Diesel,2nd Owner,2016,Maruti
+13,Jeep Compass,PLATINUM,1421599,70650,Diesel,1st Owner,2017,Jeep
+14,Maruti Suzuki Alto,PLATINUM,399999,25730,Petrol,2nd Owner,2017,Maruti
+15,Kia Seltos,PLATINUM,1473299,47096,Petrol,2nd Owner,2019,Kia
+16,Toyota Innova 2.5,GOLD,1025000,131000,Diesel,2nd Owner,2012,Toyota
+17,Hyundai Elite i20,GOLD,735000,26000,Petrol,2nd Owner,2016,Hyundai
+18,Hyundai Creta 1.6,GOLD,600000,58460,Diesel,1st Owner,2019,Hyundai
+19,Kia Seltos,GOLD,800000,48000,Petrol,1st Owner,2020,Kia
+20,Maruti Suzuki Ciaz,GOLD,700000,26600,Petrol,2nd Owner,2017,Maruti
+21,Ford EcoSport Titanium,GOLD,820000,36000,Petrol,2nd Owner,2019,Ford
+22,Tata Nano Twist,GOLD,195000,39500,Petrol,2nd Owner,2014,Tata
+23,Audi Q7 3.0,GOLD,1850000,76000,Diesel,2nd Owner,2011,Audi
+24,Ford Ecosport,PLATINUM,807499,23698,Petrol,1st Owner,2017,Ford
+25,Hyundai Grand i10,PLATINUM,522999,37860,Petrol,2nd Owner,2016,Hyundai
+26,Maruti Suzuki Swift,PLATINUM,474299,91830,Petrol,2nd Owner,2015,Maruti
+27,Hyundai Elite i20,PLATINUM,740899,31172,Petrol,2nd Owner,2019,Hyundai
+28,Toyota Yaris,PLATINUM,1141999,3243,Petrol,2nd Owner,2021,Toyota
+29,Tata Nexon,PLATINUM,971299,9616,Petrol,2nd Owner,2020,Tata
+30,Maruti Suzuki Baleno,PLATINUM,640999,30249,Petrol,2nd Owner,2017,Maruti
+31,Maruti Suzuki Baleno,PLATINUM,676199,60875,Petrol,2nd Owner,2019,Maruti
+32,Maruti Suzuki Swift,PLATINUM,562399,25740,Petrol,2nd Owner,2017,Maruti
+33,Ford Ecosport 1.0,PLATINUM,580899,38587,Petrol,2nd Owner,2014,Ford
+34,Renault Triber,PLATINUM,770999,3108,Petrol,2nd Owner,2021,Renault
+35,Honda Amaze,PLATINUM,531399,35353,Petrol,2nd Owner,2016,Honda
+36,Hyundai EON Magna,PLATINUM,367299,34748,Petrol,2nd Owner,2017,Hyundai
+37,Maruti Suzuki Alto,PLATINUM,412199,2359,Petrol,2nd Owner,2020,Maruti
+38,Hyundai Creta S,PLATINUM,1460099,17814,Diesel,2nd Owner,2020,Hyundai
+39,Maruti Suzuki Baleno,PLATINUM,618699,68934,Petrol,2nd Owner,2018,Maruti
+40,Hyundai i20 Asta,GOLD,485000,72600,Petrol,2nd Owner,2014,Hyundai
+41,BMW 3 Series,GOLD,890000,81000,Diesel,2nd Owner,2010,BMW
+42,Nissan Micra XV,GOLD,245000,80000,Diesel,1st Owner,2012,Nissan
+43,Toyota Glanza V,GOLD,945000,12000,Petrol,2nd Owner,2020,Toyota
+44,Maruti Suzuki Swift,GOLD,590000,6000,Petrol,2nd Owner,2016,Maruti
+45,Honda Brio S,GOLD,495000,56000,Petrol,2nd Owner,2017,Honda
+46,Maruti Suzuki Wagon,GOLD,475000,56000,Petrol,2nd Owner,2017,Maruti
+47,MG Motors Hector,GOLD,1200000,36000,Diesel,1st Owner,2020,MG
+48,Maruti Suzuki Wagon,PLATINUM,490199,15840,Petrol,2nd Owner,2017,Maruti
+49,Maruti Suzuki Baleno,PLATINUM,618699,68934,Petrol,2nd Owner,2018,Maruti
+50,Maruti Suzuki Vitara,PLATINUM,920999,32482,Diesel,2nd Owner,2017,Maruti
+51,Honda City,PLATINUM,554399,113779,Diesel,2nd Owner,2014,Honda
+52,Maruti Suzuki Wagon,PLATINUM,408999,26150,Petrol,2nd Owner,2017,Maruti
+53,Mahindra XUV 500,PLATINUM,1248299,34555,Diesel,2nd Owner,2018,Mahindra
+54,Maruti Suzuki Baleno,PLATINUM,636099,30880,Petrol,1st Owner,2018,Maruti
+55,Hyundai i20 Asta,PLATINUM,452699,70423,Petrol,1st Owner,2013,Hyundai
+56,Hyundai Elite i20,PLATINUM,704399,30232,Diesel,2nd Owner,2018,Hyundai
+57,Volkswagen Polo,PLATINUM,553599,50077,Petrol,2nd Owner,2016,Volkswagen
+58,Ford Ecosport,PLATINUM,999599,18482,Diesel,2nd Owner,2018,Ford
+59,Maruti Suzuki Baleno,PLATINUM,684699,10246,Petrol,2nd Owner,2018,Maruti
+60,Maruti Suzuki Baleno,PLATINUM,620399,25021,Petrol,2nd Owner,2016,Maruti
+61,Hyundai Elite i20,PLATINUM,549899,70646,Petrol,2nd Owner,2014,Hyundai
+62,Maruti Suzuki Vitara,PLATINUM,812899,45490,Diesel,2nd Owner,2018,Maruti
+63,Ford Ecosport,PLATINUM,656699,53306,Diesel,2nd Owner,2016,Ford
+64,Hyundai Creta 1.6,GOLD,725000,58460,Diesel,1st Owner,2019,Hyundai
+65,Hyundai Venue,GOLD,600000,29000,Diesel,1st Owner,2019,Hyundai
+66,Volvo XC90 D5,GOLD,3700000,110000,Diesel,2nd Owner,2016,Volvo
+67,Mahindra XUV 500,GOLD,735000,95000,Diesel,2nd Owner,2013,Mahindra
+68,Toyota Fortuner 3.0,GOLD,1350000,170000,Diesel,2nd Owner,2012,Toyota
+69,Honda Jazz VX,GOLD,365000,80000,Petrol,2nd Owner,2013,Honda
+70,Hyundai i10 Asta,GOLD,280000,58000,Petrol,2nd Owner,2011,Hyundai
+71,Tata Nexon XM,GOLD,840000,22000,Diesel,2nd Owner,2019,Tata
+72,Hyundai Creta 1.6,PLATINUM,818599,69215,Petrol,1st Owner,2017,Hyundai
+73,Hyundai Verna 1.6,PLATINUM,862399,33340,Petrol,1st Owner,2018,Hyundai
+74,Renault Triber,PLATINUM,673599,9783,Petrol,2nd Owner,2019,Renault
+75,Hyundai Santro Sportz,PLATINUM,528899,15110,Petrol,2nd Owner,2018,Hyundai
+76,Maruti Suzuki S,PLATINUM,527999,3399,Petrol,2nd Owner,2021,Maruti
+77,Mahindra XUV 500,PLATINUM,791699,89310,Diesel,1st Owner,2013,Mahindra
+78,Maruti Suzuki Wagon,PLATINUM,392999,53148,Petrol,1st Owner,2015,Maruti
+79,Honda City VX,PLATINUM,690199,42020,Petrol,1st Owner,2015,Honda
+80,Maruti Suzuki Swift,PLATINUM,474699,74594,Diesel,2nd Owner,2013,Maruti
+81,MG Motors Hector,PLATINUM,2019899,6110,Petrol,2nd Owner,2021,MG
+82,Hyundai Grand i10,PLATINUM,562299,24346,Petrol,2nd Owner,2017,Hyundai
+83,Jeep Compass,PLATINUM,1400999,65668,Diesel,1st Owner,2017,Jeep
+84,Renault Kwid,PLATINUM,447599,48644,Petrol,2nd Owner,2018,Renault
+85,Toyota Innova Crysta,PLATINUM,1814599,36877,Diesel,2nd Owner,2018,Toyota
+86,Tata Nexon,PLATINUM,920399,79673,Diesel,2nd Owner,2018,Tata
+87,Maruti Suzuki Swift,PLATINUM,447599,54352,Petrol,2nd Owner,2014,Maruti
+88,Tata Zest XMS,GOLD,390000,64000,Diesel,2nd Owner,2016,Tata
+89,Ford Freestyle TITANIUM,GOLD,650000,54000,Diesel,2nd Owner,2018,Ford
+90,Maruti Suzuki Swift,GOLD,575000,40000,Petrol,2nd Owner,2017,Maruti
+91,Mahindra Xylo,GOLD,525000,107000,Diesel,1st Owner,2015,Mahindra
+92,Mahindra Xylo,GOLD,525000,107000,Diesel,2nd Owner,2015,Mahindra
+93,BMW 5 Series,GOLD,1000000,38000,Diesel,2nd Owner,2011,BMW
+94,Hyundai i20 Magna,GOLD,325000,86000,Petrol,2nd Owner,2010,Hyundai
+95,Jeep Compass Limited,GOLD,3000000,10000,Diesel,2nd Owner,2021,Jeep
+96,Maruti Suzuki Alto,PLATINUM,343299,48658,Petrol,2nd Owner,2017,Maruti
+97,MG Motors Hector,PLATINUM,1711499,11998,Petrol,2nd Owner,2020,MG
+98,Maruti Suzuki Vitara,PLATINUM,918799,32513,Diesel,2nd Owner,2018,Maruti
+99,Hyundai Grand i10,PLATINUM,526399,21372,Petrol,2nd Owner,2016,Hyundai
+100,Volkswagen Vento,PLATINUM,881099,34178,Petrol,1st Owner,2017,Volkswagen
+101,Kia Seltos,PLATINUM,1764199,20547,Petrol,2nd Owner,2019,Kia
+102,Maruti Suzuki Baleno,PLATINUM,639199,34731,Petrol,2nd Owner,2016,Maruti
+103,Hyundai Grand i10,PLATINUM,522999,30536,Petrol,1st Owner,2016,Hyundai
+104,MG Motors Hector,PLATINUM,1917599,10205,Diesel,2nd Owner,2019,MG
+105,Maruti Suzuki Wagon,PLATINUM,466599,25483,Petrol,2nd Owner,2017,Maruti
+106,Toyota Corolla Altis,PLATINUM,1397699,39113,Petrol,2nd Owner,2017,Toyota
+107,Maruti Suzuki Ignis,PLATINUM,504399,43152,Petrol,2nd Owner,2017,Maruti
+108,MG Motors Hector,PLATINUM,1920399,5325,Petrol,2nd Owner,2020,MG
+109,Ford Ecosport,PLATINUM,917599,44705,Petrol,2nd Owner,2018,Ford
+110,Toyota Etios,PLATINUM,319099,70022,Petrol,2nd Owner,2011,Toyota
+111,Maruti Suzuki Celerio,PLATINUM,484399,47435,Petrol,2nd Owner,2017,Maruti
+112,Volkswagen Polo HIGHLINE1.2L,GOLD,290000,89000,Petrol,2nd Owner,2010,Volkswagen
+113,Mahindra Thar DI,GOLD,1790000,9826,Petrol,2nd Owner,2021,Mahindra
+114,Ford EcoSport Trend,GOLD,650000,83000,Diesel,2nd Owner,2017,Ford
+115,Honda City 1.5,GOLD,73000,195000,Petrol,2nd Owner,2001,Honda
+116,Toyota Innova Crysta,GOLD,2200000,35000,Diesel,2nd Owner,2019,Toyota
+117,Hyundai Verna 1.6,GOLD,1550000,13000,Petrol,1st Owner,2022,Hyundai
+118,Mahindra e2o T2,GOLD,420000,46000,Electric,1st Owner,2016,Mahindra
+119,Toyota Fortuner 4x4,GOLD,1595000,72000,Diesel,1st Owner,2015,Toyota
+120,Hyundai Xcent,PLATINUM,573499,29026,Petrol,2nd Owner,2016,Hyundai
+121,Hyundai Creta 1.6,PLATINUM,879199,59258,Petrol,2nd Owner,2015,Hyundai
+122,Mahindra XUV 500,PLATINUM,733399,120399,Diesel,1st Owner,2014,Mahindra
+123,Maruti Suzuki Vitara,PLATINUM,967599,28853,Diesel,2nd Owner,2018,Maruti
+124,Honda City,PLATINUM,1539299,9811,Petrol,2nd Owner,2020,Honda
+125,Hyundai i20 Active,PLATINUM,561499,43538,Petrol,2nd Owner,2015,Hyundai
+126,Hyundai Creta,PLATINUM,1042699,66400,Petrol,2nd Owner,2017,Hyundai
+127,Maruti Suzuki S,PLATINUM,1032099,59341,Diesel,2nd Owner,2017,Maruti
+128,Hyundai Creta,PLATINUM,903499,56246,Petrol,2nd Owner,2016,Hyundai
+129,Honda Amaze,PLATINUM,472499,35944,Petrol,2nd Owner,2014,Honda
+130,Honda WR V,PLATINUM,771299,17699,Petrol,2nd Owner,2018,Honda
+131,Maruti Suzuki Wagon,PLATINUM,447099,41065,Petrol,2nd Owner,2017,Maruti
+132,Renault Kwid,PLATINUM,504599,2311,Petrol,2nd Owner,2019,Renault
+133,Hyundai Grand i10,PLATINUM,620999,2991,Petrol,2nd Owner,2018,Hyundai
+134,Hyundai Grand i10,PLATINUM,433999,29762,Petrol,2nd Owner,2015,Hyundai
+135,Skoda Rapid,PLATINUM,627499,91917,Diesel,2nd Owner,2016,Skoda
+136,Maruti Suzuki Swift,GOLD,360000,0,Diesel,2nd Owner,2014,Maruti
+137,Toyota Fortuner 3.0,GOLD,1375000,131000,Diesel,2nd Owner,2012,Toyota
+138,Maruti Suzuki 800,GOLD,69000,85000,Petrol,2nd Owner,2000,Maruti
+139,Tata Nano,GOLD,89000,37000,Petrol,2nd Owner,2011,Tata
+140,Tata Indica,GOLD,89000,67000,Diesel,2nd Owner,2011,Tata
+141,Audi Q7 3.0,GOLD,2200000,120000,Diesel,2nd Owner,2013,Audi
+142,Jaguar XJ L,GOLD,4425000,71000,Diesel,2nd Owner,2016,Jaguar
+143,Mercedes Benz GL,GOLD,4450000,105000,Diesel,2nd Owner,2016,Mercedes
+144,Renault Kwid,PLATINUM,504599,2311,Petrol,2nd Owner,2019,Renault
+145,Maruti Suzuki Dzire,PLATINUM,704199,30771,Petrol,2nd Owner,2018,Maruti
+146,Hyundai Santro Sportz,PLATINUM,513099,29488,Petrol,2nd Owner,2018,Hyundai
+147,Renault Kwid,PLATINUM,469399,36559,Petrol,2nd Owner,2019,Renault
+148,Honda WR V,PLATINUM,844199,38242,Diesel,2nd Owner,2018,Honda
+149,Maruti Suzuki Ignis,PLATINUM,544799,66426,Petrol,1st Owner,2017,Maruti
+150,Volkswagen Polo,PLATINUM,710899,16950,Petrol,2nd Owner,2018,Volkswagen
+151,Maruti Suzuki Baleno,PLATINUM,580599,18866,Petrol,2nd Owner,2016,Maruti
+152,Maruti Suzuki Swift,PLATINUM,638499,53245,Diesel,1st Owner,2017,Maruti
+153,Hyundai Verna,PLATINUM,654699,44543,Petrol,1st Owner,2016,Hyundai
+154,Maruti Suzuki S,PLATINUM,894199,50128,Diesel,1st Owner,2018,Maruti
+155,Maruti Suzuki S,PLATINUM,858599,56349,Diesel,2nd Owner,2018,Maruti
+156,Maruti Suzuki S,PLATINUM,992199,69524,Diesel,2nd Owner,2017,Maruti
+157,Volkswagen Polo,PLATINUM,714999,41218,Petrol,1st Owner,2017,Volkswagen
+158,Maruti Suzuki Baleno,PLATINUM,765599,9085,Petrol,1st Owner,2020,Maruti
+159,MG Motors Hector,PLATINUM,1800299,11292,Diesel,2nd Owner,2019,MG
+160,Mercedes Benz C,GOLD,1190000,75000,Diesel,2nd Owner,2011,Mercedes
+161,Hyundai Creta 1.6,GOLD,1452000,28000,Diesel,2nd Owner,2018,Hyundai
+162,Skoda Rapid Style,GOLD,1026000,48000,Diesel,2nd Owner,2018,Skoda
+163,Maruti Suzuki Ertiga,GOLD,821000,51000,Diesel,2nd Owner,2017,Maruti
+164,Hyundai Grand i10,GOLD,725000,24990,Petrol,2nd Owner,2020,Hyundai
+165,Maruti Suzuki Ertiga,GOLD,600000,48600,Diesel,1st Owner,2015,Maruti
+166,Maruti Suzuki Alto,GOLD,336000,3600,Petrol,1st Owner,2019,Maruti
+167,Tata Indigo eCS,GOLD,200000,115000,Diesel,2nd Owner,2012,Tata
+168,Maruti Suzuki Dzire,PLATINUM,680699,29594,Petrol,2nd Owner,2019,Maruti
+169,Honda City VX,PLATINUM,714899,55953,Petrol,1st Owner,2015,Honda
+170,Maruti Suzuki Alto,PLATINUM,316799,16980,Petrol,1st Owner,2016,Maruti
+171,Ford Ecosport,PLATINUM,675099,41828,Diesel,2nd Owner,2016,Ford
+172,Maruti Suzuki S,PLATINUM,1057399,64803,Diesel,2nd Owner,2018,Maruti
+173,Maruti Suzuki Ertiga,PLATINUM,938099,44460,Diesel,2nd Owner,2018,Maruti
+174,Tata Nexon,PLATINUM,1057699,14276,Diesel,2nd Owner,2018,Tata
+175,Maruti Suzuki Wagon,PLATINUM,610099,23425,Petrol,2nd Owner,2019,Maruti
+176,Maruti Suzuki Alto,PLATINUM,452199,23056,Petrol,2nd Owner,2018,Maruti
+177,Hyundai Elite i20,PLATINUM,712699,16102,Petrol,2nd Owner,2019,Hyundai
+178,Maruti Suzuki Vitara,PLATINUM,838699,56615,Diesel,1st Owner,2019,Maruti
+179,Mahindra TUV300,PLATINUM,666899,70317,Diesel,1st Owner,2015,Mahindra
+180,MG Motors Hector,PLATINUM,1681899,6760,Petrol,2nd Owner,2020,MG
+181,MG Motors Hector,PLATINUM,1854599,8870,Petrol,2nd Owner,2020,MG
+182,Maruti Suzuki Baleno,PLATINUM,571499,78209,Petrol,1st Owner,2016,Maruti
+183,Volkswagen Vento,PLATINUM,589199,64292,Petrol,2nd Owner,2015,Volkswagen
+184,Toyota Innova Crysta,GOLD,2350000,57000,Diesel,2nd Owner,2020,Toyota
+185,Toyota Fortuner,GOLD,3650000,42000,Diesel,2nd Owner,2019,Toyota
+186,Toyota Innova 2.5,GOLD,445000,141000,Diesel,2nd Owner,2011,Toyota
+187,Toyota Fortuner 3.0,GOLD,1231000,117000,Diesel,2nd Owner,2012,Toyota
+188,Mahindra TUV300 T8,GOLD,600000,70000,Diesel,2nd Owner,2015,Mahindra
+189,Hyundai i20 Magna,GOLD,320000,89450,Diesel,2nd Owner,2011,Hyundai
+190,Maruti Suzuki Ertiga,GOLD,1175000,29000,Petrol,2nd Owner,2020,Maruti
+191,Maruti Suzuki Alto,PLATINUM,351699,58771,Petrol,2nd Owner,2015,Maruti
+192,Maruti Suzuki Alto,PLATINUM,299199,53266,Petrol,2nd Owner,2016,Maruti
+193,Honda Amaze,PLATINUM,657199,9200,Petrol,2nd Owner,2019,Honda
+194,Ford Ecosport,PLATINUM,539299,61721,Petrol,2nd Owner,2014,Ford
+195,Hyundai Grand i10,PLATINUM,608399,18333,Petrol,2nd Owner,2017,Hyundai
+196,Ford Ecosport,PLATINUM,1042799,51780,Petrol,2nd Owner,2019,Ford
+197,Maruti Suzuki Baleno,PLATINUM,645199,30854,Petrol,2nd Owner,2018,Maruti
+198,Ford Ecosport,PLATINUM,811899,24680,Petrol,2nd Owner,2017,Ford
+199,Volkswagen Vento,PLATINUM,557799,85663,Petrol,1st Owner,2015,Volkswagen
+200,Mahindra Bolero,PLATINUM,873999,20541,Diesel,2nd Owner,2021,Mahindra
+201,Hyundai i20 Magna,PLATINUM,278299,64182,Petrol,1st Owner,2010,Hyundai
+202,Maruti Suzuki S,PLATINUM,986399,58819,Diesel,2nd Owner,2017,Maruti
+203,Maruti Suzuki Wagon,PLATINUM,610099,32057,Petrol,2nd Owner,2019,Maruti
+204,Jeep Compass,PLATINUM,1749899,18403,Petrol,2nd Owner,2018,Jeep
+205,Maruti Suzuki Alto,PLATINUM,443899,7877,Petrol,2nd Owner,2018,Maruti
+206,Hyundai Verna 1.6,PLATINUM,936299,15509,Petrol,2nd Owner,2018,Hyundai
+207,Honda Jazz VX,GOLD,850000,15000,Petrol,2nd Owner,2018,Honda
+208,Maruti Suzuki Ignis,GOLD,595000,75000,Diesel,2nd Owner,2017,Maruti
+209,Hyundai i10 Magna,GOLD,175000,62000,Petrol,2nd Owner,2008,Hyundai
+210,Hyundai Creta 1.6,GOLD,930000,134500,Diesel,2nd Owner,2018,Hyundai
+211,Toyota Fortuner 3.0,GOLD,1500000,63896,Diesel,2nd Owner,2012,Toyota
+212,Mahindra Scorpio,GOLD,159000,90000,Diesel,2nd Owner,2005,Mahindra
+213,Maruti Suzuki Alto,GOLD,69000,58000,Petrol,2nd Owner,2007,Maruti
+214,Ford Ikon,GOLD,69000,85000,Diesel,2nd Owner,2008,Ford
+215,Maruti Suzuki Baleno,PLATINUM,580599,48329,Petrol,1st Owner,2016,Maruti
+216,Renault Kwid RXT,PLATINUM,404499,21301,Petrol,2nd Owner,2019,Renault
+217,Maruti Suzuki Vitara,PLATINUM,838699,34566,Diesel,2nd Owner,2019,Maruti
+218,Renault Kwid,PLATINUM,446499,34297,Petrol,2nd Owner,2018,Renault
+219,Tata Hexa,PLATINUM,1047499,119571,Diesel,2nd Owner,2017,Tata
+220,Maruti Suzuki Alto,PLATINUM,345599,27957,Petrol,2nd Owner,2018,Maruti
+221,Ford Ecosport,PLATINUM,784399,27210,Petrol,2nd Owner,2018,Ford
+222,Maruti Suzuki Swift,PLATINUM,489399,21610,Petrol,2nd Owner,2014,Maruti
+223,Maruti Suzuki Baleno,PLATINUM,627499,40902,Petrol,2nd Owner,2017,Maruti
+224,Maruti Suzuki Alto,PLATINUM,288399,11057,Petrol,2nd Owner,2015,Maruti
+225,Maruti Suzuki Baleno,PLATINUM,573999,72505,Petrol,2nd Owner,2016,Maruti
+226,Hyundai Creta,PLATINUM,1373699,31338,Petrol,1st Owner,2018,Hyundai
+227,Maruti Suzuki Alto,PLATINUM,279799,28674,Petrol,2nd Owner,2016,Maruti
+228,Hyundai Elite i20,PLATINUM,658199,25416,Petrol,1st Owner,2018,Hyundai
+229,Hyundai Grand i10,PLATINUM,465499,14765,Petrol,2nd Owner,2016,Hyundai
+230,Toyota Etios,PLATINUM,563999,60380,Diesel,1st Owner,2015,Toyota
+231,Hyundai Santro,GOLD,59000,85000,Petrol,2nd Owner,2001,Hyundai
+232,Hyundai Getz,GOLD,119000,73000,Petrol,2nd Owner,2006,Hyundai
+233,Hyundai Santro Xing,GOLD,69000,85000,Petrol,2nd Owner,2004,Hyundai
+234,Hyundai Santro,GOLD,89000,85000,Petrol,2nd Owner,2002,Hyundai
+235,Ford Figo,GOLD,129000,86000,Diesel,2nd Owner,2012,Ford
+236,Toyota Fortuner 2.8,GOLD,2931000,55000,Diesel,2nd Owner,2019,Toyota
+237,Mahindra Bolero ZLX,GOLD,790000,79950,Diesel,2nd Owner,2018,Mahindra
+238,Fiat Linea Emotion,GOLD,200000,75000,Diesel,2nd Owner,2009,Fiat
+239,Maruti Suzuki Baleno,PLATINUM,718699,19775,Petrol,2nd Owner,2018,Maruti
+240,Tata Tiago,PLATINUM,543399,28495,Petrol,1st Owner,2018,Tata
+241,Hyundai Creta,PLATINUM,1780399,28344,Diesel,2nd Owner,2020,Hyundai
+242,Toyota Glanza,PLATINUM,757999,10801,Petrol,2nd Owner,2020,Toyota
+243,Tata Nexon,PLATINUM,1013999,4365,Petrol,1st Owner,2019,Tata
+244,Maruti Suzuki Celerio,PLATINUM,439999,53266,Diesel,2nd Owner,2016,Maruti
+245,Maruti Suzuki S,PLATINUM,839199,50866,Diesel,2nd Owner,2018,Maruti
+246,Maruti Suzuki Alto,PLATINUM,421799,24230,Petrol,2nd Owner,2019,Maruti
+247,Maruti Suzuki Baleno,PLATINUM,580599,64275,Petrol,2nd Owner,2016,Maruti
+248,Hyundai Venue,PLATINUM,986799,8924,Petrol,2nd Owner,2019,Hyundai
+249,MG Motors Hector,PLATINUM,2057399,12208,Petrol,2nd Owner,2021,MG
+250,Honda City V,PLATINUM,1082299,26956,Petrol,2nd Owner,2018,Honda
+251,Hyundai Grand i10,PLATINUM,576999,12223,Petrol,2nd Owner,2017,Hyundai
+252,Hyundai Grand i10,PLATINUM,533199,23960,Petrol,2nd Owner,2016,Hyundai
+253,Maruti Suzuki Wagon,PLATINUM,473299,33687,Petrol,2nd Owner,2015,Maruti
+254,MG Motors Hector,PLATINUM,1838399,24887,Petrol,2nd Owner,2020,MG
+255,Toyota Innova 2.5,GOLD,800000,74000,Diesel,2nd Owner,2013,Toyota
+256,Nissan Micra XE,GOLD,199000,40000,Petrol,2nd Owner,2011,Nissan
+257,Hyundai Creta 1.6,GOLD,1750000,45000,Diesel,2nd Owner,2020,Hyundai
+258,Maruti Suzuki Swift,GOLD,595000,41000,Diesel,2nd Owner,2018,Maruti
+259,BMW 3 Series,GOLD,1890000,61000,Diesel,2nd Owner,2015,BMW
+260,Jaguar XF 2.2,GOLD,2150000,20000,Diesel,2nd Owner,2014,Jaguar
+261,Hyundai Verna Fluidic,GOLD,699000,26000,Petrol,1st Owner,2015,Hyundai
+262,Hyundai Grand i10,PLATINUM,451799,71423,Petrol,2nd Owner,2015,Hyundai
+263,Hyundai Grand i10,PLATINUM,446999,34095,Petrol,1st Owner,2015,Hyundai
+264,Maruti Suzuki Wagon,PLATINUM,470799,32658,Petrol,2nd Owner,2016,Maruti
+265,Maruti Suzuki Ignis,PLATINUM,511799,33166,Petrol,2nd Owner,2017,Maruti
+266,Maruti Suzuki Wagon,PLATINUM,399899,31284,Petrol,2nd Owner,2014,Maruti
+267,Maruti Suzuki Wagon,PLATINUM,375999,66090,Petrol,2nd Owner,2015,Maruti
+268,Ford Ecosport,PLATINUM,664799,51295,Petrol,2nd Owner,2016,Ford
+269,Maruti Suzuki Baleno,PLATINUM,617799,48693,Petrol,2nd Owner,2016,Maruti
+270,Maruti Suzuki Ciaz,PLATINUM,749299,36626,Diesel,2nd Owner,2017,Maruti
+271,Renault Duster,PLATINUM,795799,55752,Diesel,2nd Owner,2016,Renault
+272,Tata Tigor,PLATINUM,543499,49341,Diesel,2nd Owner,2017,Tata
+273,Maruti Suzuki Alto,PLATINUM,317199,60251,Petrol,2nd Owner,2015,Maruti
+274,Maruti Suzuki Alto,PLATINUM,373699,22269,Petrol,2nd Owner,2015,Maruti
+275,Volkswagen Ameo,PLATINUM,501799,38999,Petrol,2nd Owner,2016,Volkswagen
+276,Maruti Suzuki Vitara,PLATINUM,838699,29110,Diesel,2nd Owner,2019,Maruti
+277,Hyundai Creta,PLATINUM,1804399,14506,Petrol,2nd Owner,2020,Hyundai
+278,Chevrolet Beat LT,GOLD,175000,55000,Petrol,2nd Owner,2010,Chevrolet
+279,Tata Hexa XM,GOLD,1200000,60000,Diesel,2nd Owner,2018,Tata
+280,Toyota Corolla H5,GOLD,170000,80000,Petrol,2nd Owner,2006,Toyota
+281,Maruti Suzuki Maruti,GOLD,65000,108252,Petrol,2nd Owner,2005,Maruti
+282,Maruti Suzuki Wagon,GOLD,360000,36000,Petrol,2nd Owner,2014,Maruti
+283,Hyundai Xcent 1.2,GOLD,299000,95000,Diesel,2nd Owner,2016,Hyundai
+284,Ford Figo 1.5,GOLD,176000,88000,Diesel,2nd Owner,2010,Ford
+285,Maruti Suzuki Wagon,GOLD,325000,60000,Petrol,1st Owner,2014,Maruti
+286,Hyundai Creta,PLATINUM,1804399,14506,Petrol,2nd Owner,2020,Hyundai
+287,Maruti Suzuki S,PLATINUM,985299,29115,Diesel,2nd Owner,2017,Maruti
+288,Maruti Suzuki Baleno,PLATINUM,642899,34763,Petrol,2nd Owner,2017,Maruti
+289,Maruti Suzuki Ciaz,PLATINUM,740000,12500,Diesel,2nd Owner,2015,Maruti
+290,Maruti Suzuki Baleno,PLATINUM,610000,85000,Petrol,2nd Owner,2017,Maruti
+291,Hyundai Grand i10,PLATINUM,495000,40000,Petrol,2nd Owner,2016,Hyundai
+292,Hyundai Verna 1.6,PLATINUM,510000,71000,Petrol,2nd Owner,2014,Hyundai
+293,Maruti Suzuki Baleno,PLATINUM,560000,44000,Petrol,2nd Owner,2017,Maruti
+294,Toyota Innova 2.0,PLATINUM,455000,124000,Diesel,2nd Owner,2009,Toyota
+295,Maruti Suzuki Wagon,PLATINUM,350000,78000,CNG,2nd Owner,2012,Maruti
+296,Renault Kwid CLIMBER,PLATINUM,463099,44696,Petrol,1st Owner,2017,Renault
+297,Maruti Suzuki Alto,PLATINUM,350599,33004,Petrol,2nd Owner,2018,Maruti
+298,Hyundai Verna Fluidic,PLATINUM,636299,46034,Petrol,1st Owner,2016,Hyundai
+299,Hyundai Grand i10,PLATINUM,698199,60307,Petrol,1st Owner,2020,Hyundai
+300,Hyundai Grand i10,PLATINUM,764199,8825,Petrol,1st Owner,2021,Hyundai
+301,Maruti Suzuki Celerio,PLATINUM,524799,5743,Petrol,1st Owner,2019,Maruti
+302,Ford EcoSport Ambiente,GOLD,420000,87000,Diesel,1st Owner,2013,Ford
+303,Kia Seltos GTX,GOLD,1831000,19500,Petrol,2nd Owner,2020,Kia
+304,Chevrolet Beat LS,GOLD,210000,60000,Petrol,2nd Owner,2010,Chevrolet
+305,Volkswagen Vento Highline,GOLD,465000,70000,Petrol,2nd Owner,2013,Volkswagen
+306,Audi Q7 35,GOLD,2250000,65000,Diesel,2nd Owner,2017,Audi
+307,Maruti Suzuki Ertiga,GOLD,1090000,35623,Petrol,2nd Owner,2020,Maruti
+308,Toyota Innova,GOLD,375000,160000,Petrol,2nd Owner,2005,Toyota
+309,Hyundai i20 Sportz,GOLD,225000,98500,Petrol,2nd Owner,2009,Hyundai
+310,Maruti Suzuki Celerio,PLATINUM,524799,5743,Petrol,1st Owner,2019,Maruti
+311,Maruti Suzuki Eeco,PLATINUM,493899,25735,Petrol,1st Owner,2019,Maruti
+312,Hyundai Elite i20,PLATINUM,825299,37522,Petrol,2nd Owner,2019,Hyundai
+313,Maruti Suzuki Wagon,PLATINUM,495499,38955,Petrol,1st Owner,2018,Maruti
+314,Hyundai Eon Era,PLATINUM,277599,65308,Petrol,1st Owner,2014,Hyundai
+315,Maruti Suzuki Wagon,PLATINUM,473899,30467,Petrol,1st Owner,2017,Maruti
+316,Hyundai Venue S,PLATINUM,855299,1954,Petrol,1st Owner,2019,Hyundai
+317,Hyundai Santro 1.1,PLATINUM,540299,35220,Petrol,1st Owner,2019,Hyundai
+318,Hyundai Elite i20,PLATINUM,642899,75876,Petrol,1st Owner,2016,Hyundai
+319,Maruti Suzuki Alto,PLATINUM,442299,27020,Petrol,1st Owner,2021,Maruti
+320,Renault Triber 1.0,PLATINUM,725399,13739,Petrol,1st Owner,2019,Renault
+321,Maruti Suzuki Wagon,PLATINUM,558299,21544,Petrol,1st Owner,2019,Maruti
+322,Maruti Suzuki Alto,PLATINUM,354299,13816,Petrol,1st Owner,2016,Maruti
+323,Hyundai Elite i20,PLATINUM,673599,23817,Petrol,1st Owner,2016,Hyundai
+324,Hyundai Grand i10,PLATINUM,525099,60985,Petrol,1st Owner,2017,Hyundai
+325,Hyundai Verna SX,GOLD,525000,80000,Diesel,2nd Owner,2012,Hyundai
+326,Volkswagen Polo Comfortline,GOLD,675000,30123,Petrol,2nd Owner,2018,Volkswagen
+327,Renault Kwid RXT,GOLD,325000,67000,Petrol,2nd Owner,2016,Renault
+328,Renault Triber RXT,GOLD,645000,26123,Petrol,2nd Owner,2020,Renault
+329,Maruti Suzuki Ertiga,GOLD,785000,60123,Petrol,2nd Owner,2017,Maruti
+330,Mahindra TUV300 T8,GOLD,690000,52123,Diesel,2nd Owner,2016,Mahindra
+331,Maruti Suzuki Celerio,GOLD,425000,11123,Petrol,2nd Owner,2018,Maruti
+332,Hyundai Elite i20,GOLD,645000,41233,Petrol,2nd Owner,2019,Hyundai
+333,Maruti Suzuki Swift,PLATINUM,529699,50141,Petrol,1st Owner,2016,Maruti
+334,Maruti Suzuki Ertiga,PLATINUM,1081899,86033,Diesel,2nd Owner,2018,Maruti
+335,Fiat Linea Dynamic,PLATINUM,256000,30000,Petrol,1st Owner,2012,Fiat
+336,Honda City ZX,PLATINUM,290000,86924,Petrol,2nd Owner,2008,Honda
+337,Volkswagen Polo GT,PLATINUM,735000,68870,Petrol,2nd Owner,2016,Volkswagen
+338,Maruti Suzuki XL6,PLATINUM,1244799,22292,Petrol,2nd Owner,2019,Maruti
+339,Honda Amaze,PLATINUM,474399,44013,Petrol,1st Owner,2014,Honda
+340,Maruti Suzuki Wagon,PLATINUM,389399,96250,Petrol,2nd Owner,2016,Maruti
+341,Maruti Suzuki Swift,PLATINUM,562399,59839,Petrol,2nd Owner,2017,Maruti
+342,Hyundai Grand i10,PLATINUM,446699,49693,Petrol,2nd Owner,2015,Hyundai
+343,Renault Kwid RXT,PLATINUM,439999,22223,Petrol,1st Owner,2017,Renault
+344,Honda Amaze,PLATINUM,918999,8030,Petrol,2nd Owner,2021,Honda
+345,Volkswagen Polo,PLATINUM,815799,38780,Petrol,2nd Owner,2016,Volkswagen
+346,Maruti Suzuki Vitara,PLATINUM,896799,31919,Diesel,2nd Owner,2018,Maruti
+347,Hyundai i10 Sportz,PLATINUM,411399,47564,Petrol,2nd Owner,2015,Hyundai
+348,Hyundai Grand i10,PLATINUM,498999,42836,Petrol,2nd Owner,2013,Hyundai
+349,Renault Kwid RXT,GOLD,470000,6000,Petrol,2nd Owner,2020,Renault
+350,Tata Indica,GOLD,69000,85000,Diesel,2nd Owner,2007,Tata
+351,Mahindra TUV300 T8,GOLD,925000,27000,Diesel,2nd Owner,2018,Mahindra
+352,Mahindra Scorpio LX,GOLD,495000,690000,Diesel,2nd Owner,2013,Mahindra
+353,Maruti Suzuki Ertiga,GOLD,1090000,35000,Petrol,2nd Owner,2020,Maruti
+354,Toyota Etios Liva,GOLD,300000,135000,Diesel,2nd Owner,2013,Toyota
+355,Tata Aria Prestige,GOLD,450000,115000,Diesel,2nd Owner,2012,Tata
+356,Ford Figo,PLATINUM,357999,50488,Petrol,2nd Owner,2015,Ford
+357,Maruti Suzuki Ignis,PLATINUM,462599,12916,Petrol,1st Owner,2018,Maruti
+358,Hyundai Elite i20,PLATINUM,695199,30731,Petrol,1st Owner,2016,Hyundai
+359,Maruti Suzuki Eeco,PLATINUM,490399,8825,Petrol,2nd Owner,2019,Maruti
+360,Renault Kwid RxL,PLATINUM,340099,21627,Petrol,3rd Owner,2016,Renault
+361,Maruti Suzuki Ertiga,PLATINUM,997899,5580,Petrol,2nd Owner,2020,Maruti
+362,Hyundai i10 Sportz,PLATINUM,351599,41371,Petrol,1st Owner,2013,Hyundai
+363,Maruti Suzuki Swift,PLATINUM,603799,42313,Petrol,1st Owner,2016,Maruti
+364,Hyundai Elite i20,PLATINUM,599799,74913,Petrol,2nd Owner,2016,Hyundai
+365,Maruti Suzuki Wagon,PLATINUM,456099,74760,Petrol,2nd Owner,2018,Maruti
+366,Ford Ecosport,PLATINUM,993699,34045,Diesel,2nd Owner,2019,Ford
+367,Maruti Suzuki Ritz,PLATINUM,312299,143147,Petrol,2nd Owner,2010,Maruti
+368,Hyundai Venue,PLATINUM,1221799,28149,Petrol,1st Owner,2019,Hyundai
+369,Maruti Suzuki Swift,PLATINUM,522999,38049,Petrol,2nd Owner,2015,Maruti
+370,Hyundai EON Magna,PLATINUM,323399,78895,Petrol,2nd Owner,2014,Hyundai
+371,Hyundai Grand i10,PLATINUM,510799,27027,Petrol,2nd Owner,2015,Hyundai
+372,Mahindra XUV 500,GOLD,750000,66000,Diesel,2nd Owner,2013,Mahindra
+373,Hyundai Getz GLS,GOLD,155000,82000,Petrol,2nd Owner,2005,Hyundai
+374,Maruti Suzuki Swift,GOLD,350000,57000,Petrol,2nd Owner,2011,Maruti
+375,Honda Amaze 1.5,GOLD,410000,71000,Diesel,2nd Owner,2014,Honda
+376,Hyundai Eon Era,GOLD,275000,47000,CNG,2nd Owner,2014,Hyundai
+377,Hyundai Grand i10,GOLD,465000,37000,Petrol,2nd Owner,2017,Hyundai
+378,Maruti Suzuki Zen,GOLD,145000,73000,Petrol,2nd Owner,2007,Maruti
+379,Hyundai Getz GLS,GOLD,165000,82650,Petrol,2nd Owner,2007,Hyundai
+380,Maruti Suzuki Vitara,PLATINUM,910799,23940,Petrol,2nd Owner,2020,Maruti
+381,Renault Captur,PLATINUM,722899,26678,Petrol,2nd Owner,2018,Renault
+382,Honda WR V,PLATINUM,809499,41342,Diesel,2nd Owner,2018,Honda
+383,Maruti Suzuki Alto,PLATINUM,297399,59614,Petrol,1st Owner,2013,Maruti
+384,Maruti Suzuki Alto,PLATINUM,411999,39550,Petrol,2nd Owner,2016,Maruti
+385,Renault Triber,PLATINUM,623399,28621,Petrol,1st Owner,2019,Renault
+386,Honda Brio,PLATINUM,372399,60437,Petrol,1st Owner,2013,Honda
+387,Maruti Suzuki Wagon,PLATINUM,518099,26598,Petrol,2nd Owner,2018,Maruti
+388,Honda Amaze,PLATINUM,485599,62723,Petrol,2nd Owner,2015,Honda
+389,Maruti Suzuki Baleno,PLATINUM,636899,21145,Petrol,2nd Owner,2017,Maruti
+390,Hyundai Grand i10,PLATINUM,396999,48699,Petrol,1st Owner,2013,Hyundai
+391,Ford Ecosport,PLATINUM,980399,10102,Petrol,2nd Owner,2019,Ford
+392,Maruti Suzuki Baleno,PLATINUM,658999,34881,Petrol,1st Owner,2017,Maruti
+393,Hyundai EON D,PLATINUM,304099,53997,Petrol,2nd Owner,2015,Hyundai
+394,Maruti Suzuki Alto,PLATINUM,362599,49076,Petrol,1st Owner,2015,Maruti
+395,Maruti Suzuki Alto,PLATINUM,344199,65951,Petrol,2nd Owner,2014,Maruti
+396,Maruti Suzuki Swift,GOLD,215000,116000,Petrol,2nd Owner,2007,Maruti
+397,Skoda Rapid 1.5,GOLD,550000,136000,Diesel,1st Owner,2015,Skoda
+398,Renault Duster 110PS,GOLD,550000,85000,Diesel,2nd Owner,2013,Renault
+399,Hyundai Santro,GOLD,89000,85000,Petrol,2nd Owner,2002,Hyundai
+400,Maruti Suzuki Alto,GOLD,79000,85000,Petrol,2nd Owner,2001,Maruti
+401,Chevrolet Aveo,GOLD,67000,63000,Petrol,2nd Owner,2007,Chevrolet
+402,Ford Ikon,GOLD,59000,73000,Petrol,2nd Owner,2009,Ford
+403,Maruti Suzuki Wagon,GOLD,69000,85000,Petrol,2nd Owner,2007,Maruti
+404,Maruti Suzuki Alto,PLATINUM,462399,15032,Petrol,1st Owner,2017,Maruti
+405,Maruti Suzuki Alto,PLATINUM,319999,15575,Petrol,2nd Owner,2017,Maruti
+406,Maruti Suzuki Swift,PLATINUM,275699,147819,Diesel,3rd Owner,2010,Maruti
+407,Hyundai Grand i10,PLATINUM,501599,35203,Petrol,2nd Owner,2016,Hyundai
+408,Maruti Suzuki Eeco,PLATINUM,506599,7597,Petrol,1st Owner,2020,Maruti
+409,Mahindra Scorpio S5,PLATINUM,1198599,34883,Diesel,1st Owner,2018,Mahindra
+410,Ford Ecosport,PLATINUM,775499,59580,Diesel,2nd Owner,2017,Ford
+411,Maruti Suzuki Ritz,PLATINUM,338999,49647,Petrol,2nd Owner,2011,Maruti
+412,Hyundai Verna Fluidic,PLATINUM,652699,67577,Petrol,2nd Owner,2016,Hyundai
+413,Tata Tiago,PLATINUM,535899,10890,Petrol,1st Owner,2017,Tata
+414,Maruti Suzuki Swift,PLATINUM,492099,57444,Petrol,1st Owner,2015,Maruti
+415,Honda City,PLATINUM,885999,33598,Petrol,2nd Owner,2017,Honda
+416,Ford Freestyle,PLATINUM,694899,17804,Petrol,2nd Owner,2018,Ford
+417,Maruti Suzuki Swift,PLATINUM,450599,62613,Petrol,2nd Owner,2013,Maruti
+418,Hyundai i20 Asta,PLATINUM,377999,56974,Petrol,2nd Owner,2010,Hyundai
+419,Datsun Redi GO,PLATINUM,491499,1405,Petrol,1st Owner,2021,Datsun
+420,Maruti Suzuki Omni,GOLD,89000,85000,Petrol,2nd Owner,2008,Maruti
+421,Hyundai Creta 1.6,GOLD,1865000,8000,Petrol,2nd Owner,2020,Hyundai
+422,Datsun GO T,GOLD,235000,29000,Petrol,2nd Owner,2014,Datsun
+423,Mahindra Bolero B6,GOLD,1025000,22000,Diesel,2nd Owner,2020,Mahindra
+424,Volkswagen Polo GT,GOLD,450000,118000,Petrol,2nd Owner,2014,Volkswagen
+425,Hyundai Creta 1.6,GOLD,1575000,23000,Diesel,2nd Owner,2020,Hyundai
+426,Maruti Suzuki Swift,GOLD,695000,34000,Diesel,2nd Owner,2018,Maruti
+427,Honda Civic 1.8V,GOLD,295000,87000,Petrol,2nd Owner,2008,Honda
+428,Hyundai Verna,PLATINUM,1171199,36965,Petrol,2nd Owner,2018,Hyundai
+429,Honda WR V,PLATINUM,625699,25526,Petrol,1st Owner,2017,Honda
+430,Hyundai Grand i10,PLATINUM,453199,20235,Petrol,1st Owner,2016,Hyundai
+431,Maruti Suzuki Vitara,PLATINUM,850499,61064,Diesel,2nd Owner,2018,Maruti
+432,Maruti Suzuki Ignis,PLATINUM,548699,12558,Petrol,2nd Owner,2018,Maruti
+433,Maruti Suzuki Alto,PLATINUM,498799,14179,Petrol,1st Owner,2019,Maruti
+434,Honda City VX,PLATINUM,1377199,20379,Petrol,1st Owner,2020,Honda
+435,Ford Ecosport,PLATINUM,772799,42837,Petrol,2nd Owner,2017,Ford
+436,Hyundai Elite i20,PLATINUM,572599,67473,Petrol,2nd Owner,2016,Hyundai
+437,Honda City V,PLATINUM,774899,27576,Petrol,1st Owner,2016,Honda
+438,Maruti Suzuki S,PLATINUM,885099,80900,Diesel,2nd Owner,2017,Maruti
+439,Hyundai Elite i20,PLATINUM,687499,100934,Diesel,2nd Owner,2017,Hyundai
+440,Hyundai Elite i20,PLATINUM,567799,29060,Petrol,2nd Owner,2015,Hyundai
+441,Hyundai i10 Magna,PLATINUM,398499,36129,Petrol,2nd Owner,2016,Hyundai
+442,Maruti Suzuki Swift,PLATINUM,348499,156442,Diesel,2nd Owner,2011,Maruti
+443,Maruti Suzuki Wagon,PLATINUM,520899,48710,Petrol,2nd Owner,2018,Maruti
+444,Ford Figo Diesel,GOLD,225000,80000,Diesel,2nd Owner,2012,Ford
+445,Honda City SV,GOLD,725000,57000,Petrol,2nd Owner,2015,Honda
+446,Honda CRV,GOLD,240000,97000,LPG,2nd Owner,2004,Honda
+447,Honda Amaze 1.2,GOLD,425000,44000,Petrol,2nd Owner,2013,Honda
+448,Maruti Suzuki Swift,GOLD,500000,57000,Petrol,2nd Owner,2015,Maruti
+449,Maruti Suzuki Swift,GOLD,250000,77000,Petrol,2nd Owner,2008,Maruti
+450,Maruti Suzuki Ritz,GOLD,360000,81000,Petrol,2nd Owner,2013,Maruti
+451,Hyundai Creta 1.6,GOLD,975000,41000,Petrol,2nd Owner,2016,Hyundai
+452,Ford Ecosport,PLATINUM,916799,20619,Petrol,2nd Owner,2018,Ford
+453,Maruti Suzuki Wagon,PLATINUM,480999,51149,Petrol+CNG,2nd Owner,2018,Maruti
+454,Tata Nexon,PLATINUM,1043299,12978,Petrol,1st Owner,2020,Tata
+455,Honda City V,PLATINUM,787399,40025,Petrol,1st Owner,2016,Honda
+456,Hyundai Grand i10,PLATINUM,501599,63075,Petrol,2nd Owner,2016,Hyundai
+457,Honda Brio,PLATINUM,362999,78724,Petrol,2nd Owner,2012,Honda
+458,Renault Kwid,PLATINUM,403199,12257,Petrol,2nd Owner,2018,Renault
+459,Hyundai Venue,PLATINUM,1022599,26890,Diesel,2nd Owner,2019,Hyundai
+460,Nissan Micra Active,PLATINUM,483199,20485,Petrol,2nd Owner,2018,Nissan
+461,Hyundai EON Era,PLATINUM,321399,69220,Petrol,2nd Owner,2017,Hyundai
+462,Maruti Suzuki Alto,PLATINUM,307999,41900,Petrol,2nd Owner,2017,Maruti
+463,Maruti Suzuki Eeco,PLATINUM,478599,11944,Petrol,2nd Owner,2019,Maruti
+464,Maruti Suzuki Wagon,PLATINUM,405199,66143,Petrol,2nd Owner,2015,Maruti
+465,Maruti Suzuki Alto,PLATINUM,314999,16563,Petrol,2nd Owner,2018,Maruti
+466,Hyundai Elite i20,PLATINUM,684599,14460,Petrol,2nd Owner,2016,Hyundai
+467,Maruti Suzuki Alto,PLATINUM,413099,47120,Petrol,2nd Owner,2018,Maruti
+468,Chevrolet Cruze LTZ,GOLD,345000,115000,Diesel,2nd Owner,2011,Chevrolet
+469,Renault Scala RxZ,GOLD,385000,79200,Diesel,2nd Owner,2013,Renault
+470,Hyundai Verna 1.6,GOLD,690000,48877,Diesel,2nd Owner,2016,Hyundai
+471,Honda WRV VX,GOLD,825000,32000,Petrol,2nd Owner,2019,Honda
+472,Toyota Corolla Altis,GOLD,1425000,51000,Petrol,2nd Owner,2018,Toyota
+473,Maruti Suzuki Alto,GOLD,295000,56000,Petrol,2nd Owner,2014,Maruti
+474,Tata Tiago Revotorq,GOLD,700000,14000,Petrol,2nd Owner,2022,Tata
+475,Chevrolet Aveo,GOLD,69000,79000,Petrol,2nd Owner,2006,Chevrolet
+476,Maruti Suzuki Swift,PLATINUM,501199,147960,Diesel,2nd Owner,2016,Maruti
+477,Maruti Suzuki Wagon,PLATINUM,357399,38766,Petrol,2nd Owner,2014,Maruti
+478,Maruti Suzuki Eeco,PLATINUM,494199,8409,Petrol,2nd Owner,2019,Maruti
+479,Renault Kwid RxL,PLATINUM,424099,20718,Petrol,2nd Owner,2019,Renault
+480,Maruti Suzuki Baleno,PLATINUM,598299,51125,Petrol,1st Owner,2017,Maruti
+481,Hyundai Grand i10,PLATINUM,477599,64459,Petrol,1st Owner,2014,Hyundai
+482,Maruti Suzuki Swift,PLATINUM,447599,29467,Petrol,1st Owner,2014,Maruti
+483,Tata Nexon,PLATINUM,703999,18019,Petrol,1st Owner,2017,Tata
+484,Maruti Suzuki Celerio,PLATINUM,416099,40710,Petrol,2nd Owner,2016,Maruti
+485,Maruti Suzuki S,PLATINUM,559099,1956,Petrol,2nd Owner,2021,Maruti
+486,Renault Kwid,PLATINUM,463099,44696,Petrol,2nd Owner,2017,Renault
+487,Hyundai Grand i10,PLATINUM,527099,21531,Petrol,3rd Owner,2018,Hyundai
+488,Kia Seltos,PLATINUM,1517999,20989,Petrol,2nd Owner,2019,Kia
+489,Hyundai i20,PLATINUM,431099,33901,Petrol,1st Owner,2013,Hyundai
+490,Hyundai Grand i10,PLATINUM,539799,54696,Petrol,2nd Owner,2018,Hyundai
+491,MG Motors Hector,PLATINUM,1800299,11292,Diesel,2nd Owner,2019,MG
+492,Renault Duster 110,GOLD,1025000,14000,Diesel,2nd Owner,2020,Renault
+493,Mahindra Logan,GOLD,129000,97000,Diesel,2nd Owner,2007,Mahindra
+494,Tata Indigo CS,GOLD,79000,85000,Diesel,2nd Owner,2007,Tata
+495,Ford EcoSport Trend,GOLD,525000,50000,Diesel,2nd Owner,2014,Ford
+496,Honda Jazz VX,GOLD,565000,53000,Petrol,2nd Owner,2016,Honda
+497,Maruti Suzuki Wagon,GOLD,435000,27000,Petrol,2nd Owner,2016,Maruti
+498,Maruti Suzuki Wagon,GOLD,425000,52000,Petrol,2nd Owner,2016,Maruti
+499,Honda City ZX,GOLD,250000,149000,Petrol,2nd Owner,2007,Honda
+500,Hyundai Grand i10,PLATINUM,616599,27317,Petrol,2nd Owner,2017,Hyundai
+501,Hyundai Xcent,PLATINUM,466599,79784,Petrol,2nd Owner,2014,Hyundai
+502,Audi Q3,PLATINUM,1656999,73656,Diesel,1st Owner,2015,Audi
+503,Tata Tiago,PLATINUM,562999,27664,Petrol,1st Owner,2018,Tata
+504,Hyundai Verna FLUIDIC,PLATINUM,488899,41898,Petrol,2nd Owner,2012,Hyundai
+505,Maruti Suzuki S,PLATINUM,514599,4889,Petrol,2nd Owner,2021,Maruti
+506,Hyundai Grand i10,PLATINUM,495299,39836,Petrol,1st Owner,2015,Hyundai
+507,Honda Jazz,PLATINUM,752399,16108,Petrol,2nd Owner,2016,Honda
+508,Hyundai Grand i10,PLATINUM,474799,46111,Petrol,2nd Owner,2015,Hyundai
+509,Maruti Suzuki Ciaz,PLATINUM,849599,23761,Petrol,2nd Owner,2018,Maruti
+510,Maruti Suzuki S,PLATINUM,663199,146782,Diesel,1st Owner,2016,Maruti
+511,Hyundai Grand i10,PLATINUM,566699,26597,Petrol,1st Owner,2016,Hyundai
+512,Maruti Suzuki Eeco,PLATINUM,471199,12323,Petrol,2nd Owner,2018,Maruti
+513,Renault Kwid RXL,PLATINUM,385499,3230,Petrol,1st Owner,2017,Renault
+514,Maruti Suzuki Swift,PLATINUM,491599,62059,Petrol,3rd Owner,2016,Maruti
+515,Maruti Suzuki Baleno,PLATINUM,725699,28188,Petrol,2nd Owner,2019,Maruti
+516,Maruti Suzuki Wagon,GOLD,350000,55000,Petrol,2nd Owner,2013,Maruti
+517,Maruti Suzuki SX4,GOLD,210000,79000,Petrol,2nd Owner,2009,Maruti
+518,Tata Tiago XZA,GOLD,460000,55000,Petrol,2nd Owner,2017,Tata
+519,BMW 5 Series,GOLD,990000,49000,Petrol,3rd Owner,2010,BMW
+520,Tata Indica Vista,GOLD,190000,56000,Petrol,2nd Owner,2009,Tata
+521,Maruti Suzuki Ertiga,GOLD,625000,83000,Petrol,2nd Owner,2014,Maruti
+522,Maruti Suzuki Baleno,GOLD,590000,39226,Petrol,2nd Owner,2016,Maruti
+523,Maruti Suzuki Swift,GOLD,740000,33901,Petrol,2nd Owner,2019,Maruti
+524,Hyundai Grand i10,PLATINUM,640099,32877,Petrol,2nd Owner,2019,Hyundai
+525,Maruti Suzuki Ignis,PLATINUM,575099,17283,Petrol,2nd Owner,2019,Maruti
+526,Maruti Suzuki Ertiga,PLATINUM,1081899,86033,Diesel,1st Owner,2018,Maruti
+527,Volkswagen Polo,PLATINUM,726399,17419,Petrol,2nd Owner,2018,Volkswagen
+528,Maruti Suzuki Eeco,PLATINUM,480399,24416,Petrol,2nd Owner,2019,Maruti
+529,Renault Kwid RxL,PLATINUM,369599,26700,Petrol,2nd Owner,2017,Renault
+530,Maruti Suzuki Swift,PLATINUM,451399,28979,Petrol,1st Owner,2014,Maruti
+531,Maruti Suzuki Eeco,PLATINUM,494099,27150,Petrol,1st Owner,2019,Maruti
+532,Ford EcoSport,PLATINUM,1240899,3195,Petrol,1st Owner,2020,Ford
+533,Hyundai Eon Era,PLATINUM,286199,26761,Petrol,1st Owner,2013,Hyundai
+534,Hyundai Grand i10,PLATINUM,509399,71992,Petrol,2nd Owner,2017,Hyundai
+535,Maruti Suzuki Alto,PLATINUM,378099,27239,Petrol,2nd Owner,2016,Maruti
+536,Honda Jazz,PLATINUM,586699,36244,Petrol,2nd Owner,2016,Honda
+537,Maruti Suzuki Vitara,PLATINUM,906899,69807,Diesel,2nd Owner,2019,Maruti
+538,Maruti Suzuki Vitara,PLATINUM,882199,31803,Diesel,2nd Owner,2019,Maruti
+539,Honda Jazz,PLATINUM,507999,92373,Petrol,1st Owner,2015,Honda
+540,Toyota Etios GD,GOLD,240000,200000,Diesel,2nd Owner,2013,Toyota
+541,Ford EcoSport Titanium,GOLD,825000,46000,Diesel,2nd Owner,2016,Ford
+542,Toyota Innova 2.5,GOLD,845000,179000,Diesel,2nd Owner,2011,Toyota
+543,Hyundai Grand i10,GOLD,475000,59000,Petrol,2nd Owner,2016,Hyundai
+544,Hyundai Creta 1.6,GOLD,1325000,72000,Diesel,2nd Owner,2017,Hyundai
+545,Hyundai Creta 1.6,GOLD,1245000,56000,Diesel,2nd Owner,2017,Hyundai
+546,Mahindra XUV 500,GOLD,975000,87000,Diesel,2nd Owner,2014,Mahindra
+547,Maruti Suzuki Vitara,PLATINUM,782999,59612,Diesel,2nd Owner,2016,Maruti
+548,Ford Ecosport,PLATINUM,623399,30212,Petrol,2nd Owner,2014,Ford
+549,Maruti Suzuki Ignis,PLATINUM,548699,18113,Petrol,2nd Owner,2018,Maruti
+550,Maruti Suzuki Alto,PLATINUM,397099,48435,Petrol,2nd Owner,2018,Maruti
+551,Maruti Suzuki Wagon,PLATINUM,392099,29297,Petrol,1st Owner,2015,Maruti
+552,Maruti Suzuki Wagon,PLATINUM,354599,53525,Petrol,2nd Owner,2012,Maruti
+553,Honda Amaze,PLATINUM,719599,15890,Petrol,1st Owner,2018,Honda
+554,Honda WR V,PLATINUM,834099,31694,Petrol,1st Owner,2019,Honda
+555,Maruti Suzuki Alto,PLATINUM,365899,36279,Petrol,2nd Owner,2017,Maruti
+556,Hyundai i10 Sportz,PLATINUM,400899,33349,Petrol,1st Owner,2015,Hyundai
+557,Toyota Etios Liva,PLATINUM,320199,103182,Petrol,1st Owner,2012,Toyota
+558,Hyundai Xcent S,PLATINUM,457399,63048,Petrol,2nd Owner,2016,Hyundai
+559,Maruti Suzuki Baleno,PLATINUM,717699,26358,Petrol,2nd Owner,2017,Maruti
+560,Maruti Suzuki Wagon,PLATINUM,417299,18932,Petrol,1st Owner,2017,Maruti
+561,Maruti Suzuki Alto,PLATINUM,323199,20369,Petrol,2nd Owner,2018,Maruti
+562,Honda Jazz 1.2,PLATINUM,633999,58769,Petrol,1st Owner,2016,Honda
+563,Ford EcoSport Trend,GOLD,600000,52000,Diesel,2nd Owner,2016,Ford
+564,Volkswagen Polo Highline,GOLD,795000,15000,Petrol,2nd Owner,2019,Volkswagen
+565,Maruti Suzuki Vitara,GOLD,1000000,70000,Diesel,2nd Owner,2019,Maruti
+566,Hyundai i20 Asta,GOLD,385000,52000,Petrol,2nd Owner,2012,Hyundai
+567,Hyundai i20 Asta,GOLD,395000,32000,Petrol,2nd Owner,2013,Hyundai
+568,Toyota Fortuner 3.0,GOLD,1750000,155000,Diesel,2nd Owner,2015,Toyota
+569,Maruti Suzuki Swift,GOLD,600000,50000,Petrol,2nd Owner,2017,Maruti
+570,Mahindra Verito Executive,GOLD,330000,120000,Diesel,2nd Owner,2015,Mahindra
+571,Hyundai Creta 1.6,PLATINUM,875999,123920,Diesel,1st Owner,2017,Hyundai
+572,Hyundai EON,PLATINUM,309399,17900,Petrol,3rd Owner,2016,Hyundai
+573,Maruti Suzuki Baleno,PLATINUM,658999,31041,Petrol,1st Owner,2017,Maruti
+574,Maruti Suzuki Wagon,PLATINUM,514099,61875,Petrol,2nd Owner,2018,Maruti
+575,Hyundai Elite i20,PLATINUM,672899,29210,Petrol,2nd Owner,2016,Hyundai
+576,Mahindra TUV300,PLATINUM,620099,35826,Diesel,1st Owner,2016,Mahindra
+577,Ford Freestyle,PLATINUM,733999,29364,Petrol,2nd Owner,2019,Ford
+578,Renault Triber,PLATINUM,664699,16304,Petrol,1st Owner,2021,Renault
+579,Maruti Suzuki Swift,PLATINUM,454299,95731,Petrol,2nd Owner,2015,Maruti
+580,Maruti Suzuki Swift,PLATINUM,357499,31011,Petrol,2nd Owner,2010,Maruti
+581,Maruti Suzuki Swift,PLATINUM,447599,30601,Petrol,1st Owner,2014,Maruti
+582,Maruti Suzuki S,PLATINUM,422299,14568,Petrol,1st Owner,2019,Maruti
+583,Toyota Etios V,PLATINUM,449699,89559,Petrol,2nd Owner,2012,Toyota
+584,Hyundai Grand i10,PLATINUM,493499,48834,Petrol,2nd Owner,2014,Hyundai
+585,Hyundai Elite i20,PLATINUM,605699,74190,Diesel,2nd Owner,2014,Hyundai
+586,Ford EcoSport Titanium,PLATINUM,755099,43077,Petrol,2nd Owner,2016,Ford
+587,Maruti Suzuki Swift,GOLD,490000,58000,Petrol,2nd Owner,2015,Maruti
+588,Honda City 1.5,GOLD,450000,99000,Petrol,2nd Owner,2011,Honda
+589,Tata Indigo CS,GOLD,160000,88500,Diesel,2nd Owner,2009,Tata
+590,Chevrolet Beat LT,GOLD,215000,85000,Diesel,2nd Owner,2012,Chevrolet
+591,Honda City ZX,GOLD,1150000,29000,Petrol,2nd Owner,2019,Honda
+592,Maruti Suzuki Wagon,GOLD,349000,65000,Petrol,2nd Owner,2015,Maruti
+593,MG Motors Hector,GOLD,1401000,16000,Petrol,1st Owner,2020,MG
+594,MG Motors Hector,GOLD,1401000,16000,Petrol,1st Owner,2020,MG
+595,Maruti Suzuki Eeco,PLATINUM,432699,17981,Petrol,2nd Owner,2018,Maruti
+596,Maruti Suzuki Eeco,PLATINUM,418599,20780,Petrol,2nd Owner,2018,Maruti
+597,Maruti Suzuki Alto,PLATINUM,275799,56719,Petrol,2nd Owner,2014,Maruti
+598,Maruti Suzuki Wagon,PLATINUM,456199,31108,Petrol,2nd Owner,2015,Maruti
+599,Honda City,PLATINUM,728499,33611,Petrol,2nd Owner,2016,Honda
+600,Maruti Suzuki Alto,PLATINUM,431599,43700,Petrol,2nd Owner,2019,Maruti
+601,Maruti Suzuki Ignis,PLATINUM,533099,49920,Petrol,2nd Owner,2017,Maruti
+602,Maruti Suzuki Swift,PLATINUM,451399,57338,Petrol,1st Owner,2014,Maruti
+603,Hyundai Venue S,PLATINUM,840699,23096,Petrol,1st Owner,2020,Hyundai
+604,Maruti Suzuki Swift,PLATINUM,486499,48732,Petrol,1st Owner,2016,Maruti
+605,Honda City,PLATINUM,450199,67924,Petrol,1st Owner,2012,Honda
+606,Maruti Suzuki Wagon,PLATINUM,418999,30418,Petrol,2nd Owner,2014,Maruti
+607,Honda City,PLATINUM,621299,50593,Petrol,2nd Owner,2014,Honda
+608,Hyundai i20 Active,PLATINUM,508399,136381,Petrol,2nd Owner,2016,Hyundai
+609,Maruti Suzuki Celerio,PLATINUM,390999,46943,Petrol,2nd Owner,2015,Maruti
+610,Maruti Suzuki Swift,PLATINUM,675099,36277,Petrol,2nd Owner,2017,Maruti
+611,BMW X5 xDrive30d,GOLD,3600000,110000,Diesel,2nd Owner,2014,BMW
+612,Kia Seltos HTX,GOLD,1501000,5600,Diesel,1st Owner,2021,Kia
+613,Maruti Suzuki Swift,GOLD,825000,44000,Diesel,2nd Owner,2019,Maruti
+614,Maruti Suzuki Ertiga,GOLD,1100000,40000,Petrol,2nd Owner,2019,Maruti
+615,Kia Seltos HTX,GOLD,1501000,5600,Diesel,1st Owner,2021,Kia
+616,Maruti Suzuki Wagon,GOLD,130000,45000,Petrol,2nd Owner,2007,Maruti
+617,Toyota Etios GD,GOLD,325000,150000,Diesel,2nd Owner,2012,Toyota
+618,Tata Indigo CS,GOLD,210000,90000,Diesel,2nd Owner,2016,Tata
+619,Hyundai Xcent,PLATINUM,464199,70359,Diesel,2nd Owner,2015,Hyundai
+620,Hyundai EON Era,PLATINUM,343999,42205,Petrol,2nd Owner,2017,Hyundai
+621,Nissan Micra,PLATINUM,441499,60539,Petrol,2nd Owner,2015,Nissan
+622,Maruti Suzuki Dzire,PLATINUM,684999,16533,Petrol,2nd Owner,2019,Maruti
+623,Volkswagen Polo,PLATINUM,815399,26596,Petrol,2nd Owner,2017,Volkswagen
+624,Hyundai Grand i10,PLATINUM,468999,30912,Petrol,2nd Owner,2016,Hyundai
+625,Hyundai Venue,PLATINUM,1194799,17951,Diesel,2nd Owner,2019,Hyundai
+626,Volkswagen Polo,PLATINUM,599899,36928,Petrol,2nd Owner,2015,Volkswagen
+627,Maruti Suzuki Dzire,PLATINUM,710199,22854,Petrol,2nd Owner,2018,Maruti
+628,Hyundai i20,PLATINUM,474399,89156,Petrol,1st Owner,2014,Hyundai
+629,Maruti Suzuki Baleno,PLATINUM,701399,41999,Petrol,2nd Owner,2019,Maruti
+630,Honda City,PLATINUM,834599,66145,Petrol,2nd Owner,2017,Honda
+631,Maruti Suzuki Alto,PLATINUM,333699,29157,Petrol,2nd Owner,2017,Maruti
+632,Hyundai EON Era,PLATINUM,349799,33882,Petrol,2nd Owner,2017,Hyundai
+633,Hyundai EON Era,PLATINUM,286199,29379,Petrol,2nd Owner,2013,Hyundai
+634,Maruti Suzuki Alto,PLATINUM,386699,17352,Petrol,2nd Owner,2019,Maruti
+635,Toyota Fortuner 3.0,GOLD,1050000,195000,Diesel,2nd Owner,2011,Toyota
+636,Maruti Suzuki Swift,GOLD,695000,16189,Petrol,2nd Owner,2020,Maruti
+637,Maruti Suzuki Swift,GOLD,695000,41341,Diesel,2nd Owner,2018,Maruti
+638,Tata Tiago Revotorq,GOLD,550000,62000,Diesel,2nd Owner,2019,Tata
+639,Hyundai Creta 1.6,GOLD,1300000,19000,Diesel,1st Owner,2021,Hyundai
+640,Maruti Suzuki Ritz,GOLD,225000,56000,Petrol,2nd Owner,2011,Maruti
+641,Maruti Suzuki Wagon,GOLD,250000,91000,Petrol,2nd Owner,2010,Maruti
+642,Renault Triber,PLATINUM,659199,13486,Petrol,1st Owner,2019,Renault
+643,Hyundai Grand i10,PLATINUM,572599,33562,Petrol,2nd Owner,2018,Hyundai
+644,Hyundai Verna,PLATINUM,1171199,13691,Petrol,2nd Owner,2018,Hyundai
+645,Hyundai Grand i10,PLATINUM,557199,31980,Petrol,2nd Owner,2017,Hyundai
+646,Hyundai Grand i10,PLATINUM,531399,69526,Petrol,2nd Owner,2016,Hyundai
+647,Maruti Suzuki Alto,PLATINUM,426199,21492,Petrol,2nd Owner,2016,Maruti
+648,Maruti Suzuki Celerio,PLATINUM,432999,47425,Petrol,1st Owner,2016,Maruti
+649,Hyundai Grand i10,PLATINUM,458399,40988,Petrol,2nd Owner,2016,Hyundai
+650,Jeep Compass,PLATINUM,1465199,51983,Diesel,2nd Owner,2018,Jeep
+651,Maruti Suzuki Vitara,PLATINUM,783099,69376,Diesel,2nd Owner,2018,Maruti
+652,Maruti Suzuki Swift,PLATINUM,562399,33094,Petrol,2nd Owner,2017,Maruti
+653,Tata Tiago,PLATINUM,529199,26237,Petrol,3rd Owner,2017,Tata
+654,Honda Brio,PLATINUM,447199,42415,Petrol,1st Owner,2015,Honda
+655,Hyundai Creta,PLATINUM,944099,112308,Diesel,2nd Owner,2016,Hyundai
+656,Maruti Suzuki Celerio,PLATINUM,452099,61427,Petrol,1st Owner,2017,Maruti
+657,MG Motors Hector,PLATINUM,1917599,10205,Diesel,2nd Owner,2019,MG
+658,Maruti Suzuki Alto,GOLD,179000,67000,Petrol,2nd Owner,2011,Maruti
+659,Toyota Innova 2.5,GOLD,775000,160000,Diesel,2nd Owner,2010,Toyota
+660,Maruti Suzuki Ertiga,GOLD,425000,53000,Diesel,2nd Owner,2013,Maruti
+661,Maruti Suzuki Swift,GOLD,550000,59888,Petrol,2nd Owner,2017,Maruti
+662,Maruti Suzuki Ciaz,GOLD,795000,58492,Petrol,1st Owner,2018,Maruti
+663,Honda City 1.5,GOLD,350888,45000,Petrol,1st Owner,2011,Honda
+664,Maruti Suzuki Swift,GOLD,275000,48000,Diesel,2nd Owner,2012,Maruti
+665,Tata Nexon XZ,GOLD,890000,34000,Petrol,2nd Owner,2018,Tata
+666,Maruti Suzuki Swift,PLATINUM,580599,75691,Diesel,2nd Owner,2017,Maruti
+667,Maruti Suzuki Alto,PLATINUM,223299,84301,Petrol,3rd Owner,2013,Maruti
+668,Tata Tiago,PLATINUM,600399,38346,Petrol,2nd Owner,2019,Tata
+669,Maruti Suzuki Alto,PLATINUM,367399,41530,Petrol,2nd Owner,2017,Maruti
+670,Ford Ecosport,PLATINUM,704099,23049,Petrol,2nd Owner,2017,Ford
+671,Maruti Suzuki Wagon,PLATINUM,377899,74510,Petrol,1st Owner,2016,Maruti
+672,Maruti Suzuki Wagon,PLATINUM,458699,20141,Petrol,2nd Owner,2016,Maruti
+673,Ford Ecosport,PLATINUM,566199,85860,Petrol,2nd Owner,2015,Ford
+674,Maruti Suzuki Swift,PLATINUM,594599,63133,Diesel,1st Owner,2017,Maruti
+675,Maruti Suzuki Dzire,PLATINUM,678699,71894,Petrol,2nd Owner,2018,Maruti
+676,Renault Duster,PLATINUM,883099,95627,Diesel,2nd Owner,2017,Renault
+677,Ford Ecosport,PLATINUM,578099,75324,Diesel,2nd Owner,2014,Ford
+678,Maruti Suzuki Alto,PLATINUM,305899,64611,Petrol,2nd Owner,2015,Maruti
+679,Maruti Suzuki Celerio,PLATINUM,457399,77128,Petrol,3rd Owner,2016,Maruti
+680,Maruti Suzuki Alto,PLATINUM,316799,36306,Petrol,1st Owner,2016,Maruti
+681,Hyundai i20 Asta,PLATINUM,399999,83803,Petrol,1st Owner,2011,Hyundai
+682,Mahindra XUV 500,GOLD,1100000,44000,Diesel,1st Owner,2018,Mahindra
+683,Mahindra KUV100 K4,GOLD,325000,108000,Diesel,2nd Owner,2018,Mahindra
+684,Hyundai i20 Era,GOLD,550000,55000,Diesel,2nd Owner,2018,Hyundai
+685,Honda City 1.5,GOLD,990888,700,Petrol,1st Owner,2020,Honda
+686,Mahindra Jeep CL,GOLD,480000,25,Diesel,2nd Owner,2020,Mahindra
+687,Maruti Suzuki Gypsy,GOLD,500000,258,Petrol,2nd Owner,2018,Maruti
+688,Maruti Suzuki Swift,GOLD,390000,81152,Diesel,2nd Owner,2011,Maruti
+689,Toyota Fortuner 3.0,GOLD,1750000,155000,Diesel,2nd Owner,2015,Toyota
+690,Hyundai i20 Asta,PLATINUM,399999,83803,Petrol,1st Owner,2011,Hyundai
+691,Hyundai Creta 1.6,PLATINUM,841499,75398,Petrol,2nd Owner,2017,Hyundai
+692,Honda City ZX,PLATINUM,1016899,42317,Petrol,1st Owner,2017,Honda
+693,Maruti Suzuki Swift,PLATINUM,748599,60214,Diesel,2nd Owner,2018,Maruti
+694,Maruti Suzuki Swift,PLATINUM,622099,58861,Diesel,2nd Owner,2017,Maruti
+695,Volkswagen Polo,PLATINUM,530699,27995,Petrol,2nd Owner,2016,Volkswagen
+696,Maruti Suzuki Celerio,PLATINUM,471899,61018,Petrol,2nd Owner,2017,Maruti
+697,Maruti Suzuki Swift,PLATINUM,505399,67109,Petrol,2nd Owner,2015,Maruti
+698,Maruti Suzuki Wagon,PLATINUM,460299,81811,Petrol,2nd Owner,2017,Maruti
+699,Hyundai Verna 1.6,PLATINUM,683999,27357,Petrol,1st Owner,2017,Hyundai
+700,Volkswagen Polo HIGHLINE1.2L,PLATINUM,639699,53293,Petrol,3rd Owner,2018,Volkswagen
+701,Maruti Suzuki Celerio,PLATINUM,510499,45260,Petrol,2nd Owner,2017,Maruti
+702,Hyundai Venue,PLATINUM,1185499,3139,Petrol,2nd Owner,2019,Hyundai
+703,Maruti Suzuki Celerio,PLATINUM,471899,44690,Petrol,1st Owner,2017,Maruti
+704,Hyundai Santro ASTA,PLATINUM,579899,13858,Petrol,1st Owner,2019,Hyundai
+705,Maruti Suzuki Alto,PLATINUM,333699,25256,Petrol,2nd Owner,2017,Maruti
+706,Hyundai i20 Magna,GOLD,385000,94000,Diesel,2nd Owner,2012,Hyundai
+707,Maruti Suzuki Ciaz,GOLD,590000,44100,Hybrid,1st Owner,2016,Maruti
+708,Honda Amaze 1.2,GOLD,375888,47000,Petrol,1st Owner,2016,Honda
+709,Hyundai Santa Fe,GOLD,775000,126000,Diesel,2nd Owner,2012,Hyundai
+710,Mahindra XUV 500,GOLD,778888,46000,Diesel,1st Owner,2015,Mahindra
+711,Audi Q5 2.0,GOLD,1850000,75000,Diesel,2nd Owner,2014,Audi
+712,Mercedes Benz GLE,GOLD,7500000,35000,Petrol,2nd Owner,2019,Mercedes
+713,Volvo XC60 D3,GOLD,1750000,86000,Diesel,2nd Owner,2012,Volvo
+714,Volkswagen Polo COMFORTLINE,PLATINUM,582899,15227,Petrol,1st Owner,2017,Volkswagen
+715,Volkswagen Polo,PLATINUM,414099,87375,Diesel,1st Owner,2014,Volkswagen
+716,Maruti Suzuki Eeco,PLATINUM,516599,7679,Petrol,2nd Owner,2020,Maruti
+717,Maruti Suzuki Alto,PLATINUM,366299,48378,Petrol,1st Owner,2016,Maruti
+718,Maruti Suzuki Wagon,PLATINUM,375899,54645,Petrol,1st Owner,2014,Maruti
+719,Maruti Suzuki Eeco,PLATINUM,493899,7211,Petrol,1st Owner,2019,Maruti
+720,Datsun Redi GO,PLATINUM,311399,37217,Petrol,2nd Owner,2017,Datsun
+721,Maruti Suzuki Eeco,PLATINUM,493899,32372,Petrol,1st Owner,2019,Maruti
+722,Maruti Suzuki Wagon,PLATINUM,501999,37947,Petrol,2nd Owner,2018,Maruti
+723,Hyundai Grand i10,PLATINUM,409399,51886,Petrol,2nd Owner,2014,Hyundai
+724,Toyota Innova Crysta,PLATINUM,1737899,43187,Diesel,2nd Owner,2018,Toyota
+725,Hyundai i20 Active,PLATINUM,583999,33616,Diesel,1st Owner,2015,Hyundai
+726,Volkswagen Vento,PLATINUM,654299,91087,Diesel,1st Owner,2015,Volkswagen
+727,Ford Ecosport,PLATINUM,986699,26372,Petrol,2nd Owner,2018,Ford
+728,Maruti Suzuki Celerio,PLATINUM,414199,58762,Petrol,1st Owner,2014,Maruti
+729,Hyundai Elite i20,PLATINUM,588099,101920,Diesel,2nd Owner,2016,Hyundai
+730,Maruti Suzuki Swift,GOLD,490000,44000,Petrol,2nd Owner,2014,Maruti
+731,Mahindra Scorpio 2.6,GOLD,225000,85000,Diesel,2nd Owner,2007,Mahindra
+732,Maruti Suzuki Vitara,GOLD,775000,64000,Diesel,2nd Owner,2017,Maruti
+733,Kia Sonet,GOLD,1050000,13000,Diesel,2nd Owner,2021,Kia
+734,Honda Amaze 1.5,GOLD,425000,76000,Diesel,2nd Owner,2015,Honda
+735,Maruti Suzuki Alto,GOLD,275000,45000,Petrol,2nd Owner,2015,Maruti
+736,Tata Nexon XZ,GOLD,875000,63088,Diesel,2nd Owner,2019,Tata
+737,Maruti Suzuki Alto,GOLD,250000,54123,Petrol,2nd Owner,2013,Maruti
+738,Hyundai i20 Active,PLATINUM,567399,35140,Petrol,2nd Owner,2015,Hyundai
+739,Maruti Suzuki Ciaz,PLATINUM,805099,50842,Diesel,2nd Owner,2018,Maruti
+740,Honda Amaze,PLATINUM,492199,43412,Petrol,1st Owner,2015,Honda
+741,Honda Jazz,PLATINUM,495799,46201,Petrol,1st Owner,2016,Honda
+742,Maruti Suzuki S,PLATINUM,1113599,63626,Diesel,2nd Owner,2017,Maruti
+743,Maruti Suzuki Alto,PLATINUM,299999,18251,Petrol,1st Owner,2016,Maruti
+744,Maruti Suzuki Baleno,PLATINUM,592099,41019,Petrol,2nd Owner,2016,Maruti
+745,Renault Kwid RXT,PLATINUM,322299,46463,Petrol,1st Owner,2015,Renault
+746,Renault Kwid,PLATINUM,481999,20110,Petrol,2nd Owner,2017,Renault
+747,Hyundai Grand i10,PLATINUM,534599,17364,Petrol,2nd Owner,2016,Hyundai
+748,MG Motors Hector,PLATINUM,1681899,6760,Petrol,2nd Owner,2020,MG
+749,Maruti Suzuki Celerio,PLATINUM,429599,35109,Petrol,2nd Owner,2016,Maruti
+750,Honda Amaze,PLATINUM,723799,44266,Petrol,2nd Owner,2018,Honda
+751,Volkswagen Polo,PLATINUM,563299,39156,Petrol,2nd Owner,2017,Volkswagen
+752,Maruti Suzuki Alto,PLATINUM,214199,57993,Petrol,3rd Owner,2011,Maruti
+753,Maruti Suzuki Alto,PLATINUM,319399,51573,Petrol,2nd Owner,2015,Maruti
+754,Fiat Punto Emotion,GOLD,180000,88000,Petrol,2nd Owner,2011,Fiat
+755,Hyundai i20 Sportz,GOLD,415000,67000,Petrol,2nd Owner,2014,Hyundai
+756,Maruti Suzuki Swift,GOLD,350000,73000,Diesel,2nd Owner,2011,Maruti
+757,Hyundai Elite i20,GOLD,430000,39000,Petrol,2nd Owner,2015,Hyundai
+758,Mahindra XUV 500,GOLD,450000,87500,Diesel,2nd Owner,2012,Mahindra
+759,Honda Accord 2.4,GOLD,325000,86000,Petrol,2nd Owner,2006,Honda
+760,Hyundai Grand i10,GOLD,565000,19900,Petrol,2nd Owner,2017,Hyundai
+761,Nissan Terrano XV,GOLD,880000,22000,Diesel,2nd Owner,2013,Nissan
+762,Maruti Suzuki Vitara,PLATINUM,810399,78329,Diesel,2nd Owner,2016,Maruti
+763,Maruti Suzuki Ertiga,PLATINUM,788999,61977,Diesel,1st Owner,2016,Maruti
+764,Mahindra KUV100 K6,PLATINUM,508799,58640,Diesel,1st Owner,2016,Mahindra
+765,Renault Kwid,PLATINUM,457099,40650,Petrol,1st Owner,2018,Renault
+766,Volkswagen Polo,PLATINUM,612899,19121,Petrol,2nd Owner,2019,Volkswagen
+767,Ford Ecosport,PLATINUM,684099,85893,Diesel,2nd Owner,2016,Ford
+768,Renault Triber,PLATINUM,716699,9874,Petrol,2nd Owner,2019,Renault
+769,Hyundai Grand i10,PLATINUM,501599,25202,Petrol,1st Owner,2016,Hyundai
+770,Hyundai Grand i10,PLATINUM,509699,95999,Petrol,2nd Owner,2016,Hyundai
+771,Maruti Suzuki Alto,PLATINUM,337799,49074,Petrol,2nd Owner,2014,Maruti
+772,Hyundai Verna 1.6,PLATINUM,852399,52439,Petrol,2nd Owner,2017,Hyundai
+773,Mahindra XUV 500,PLATINUM,1784699,10813,Diesel,1st Owner,2020,Mahindra
+774,Hyundai Creta,PLATINUM,778199,127971,Petrol,2nd Owner,2016,Hyundai
+775,Maruti Suzuki Swift,PLATINUM,705099,114108,Diesel,2nd Owner,2018,Maruti
+776,Hyundai Grand i10,PLATINUM,557599,52030,Diesel,2nd Owner,2017,Hyundai
+777,Mahindra XUV 500,PLATINUM,1518099,44721,Diesel,2nd Owner,2018,Mahindra
+778,Mahindra Marazzo M6,GOLD,1190000,50000,Diesel,2nd Owner,2018,Mahindra
+779,Skoda Laura Ambition,GOLD,590000,95000,Diesel,2nd Owner,2011,Skoda
+780,Tata Harrier XZ,GOLD,1980000,17000,Diesel,2nd Owner,2020,Tata
+781,Mahindra XUV 500,GOLD,1350000,52500,Diesel,2nd Owner,2018,Mahindra
+782,BMW 5 Series,GOLD,1059000,49000,Petrol,3rd Owner,2010,BMW
+783,Maruti Suzuki Alto,GOLD,185000,55000,Petrol,1st Owner,2011,Maruti
+784,Mahindra Scorpio 2.6,GOLD,710000,81500,Diesel,2nd Owner,2014,Mahindra
+785,Mercedes Benz E,GOLD,1948888,10000,Diesel,1st Owner,2013,Mercedes
+786,Tata Harrier,PLATINUM,2272499,22667,Diesel,2nd Owner,2020,Tata
+787,Honda City,PLATINUM,626199,68519,Petrol,1st Owner,2014,Honda
+788,Tata Nano,PLATINUM,236099,64011,Petrol,1st Owner,2015,Tata
+789,Maruti Suzuki Alto,PLATINUM,430499,13598,Petrol,1st Owner,2021,Maruti
+790,Maruti Suzuki Wagon,PLATINUM,442799,47037,Petrol,2nd Owner,2014,Maruti
+791,Hyundai Creta,PLATINUM,1373699,69711,Petrol,2nd Owner,2018,Hyundai
+792,Hyundai Elite i20,PLATINUM,589299,49189,Petrol,2nd Owner,2015,Hyundai
+793,Maruti Suzuki Alto,PLATINUM,298199,18368,Petrol,1st Owner,2016,Maruti
+794,Tata Harrier,PLATINUM,1508799,16874,Diesel,2nd Owner,2020,Tata
+795,Maruti Suzuki Eeco,PLATINUM,473699,24484,Petrol,2nd Owner,2019,Maruti
+796,Maruti Suzuki Baleno,PLATINUM,656299,20688,Petrol,2nd Owner,2019,Maruti
+797,Maruti Suzuki Alto,PLATINUM,345799,24065,Petrol,2nd Owner,2016,Maruti
+798,Hyundai Grand i10,PLATINUM,584599,22609,Petrol,2nd Owner,2018,Hyundai
+799,Skoda Rapid,PLATINUM,786799,56523,Diesel,2nd Owner,2017,Skoda
+800,Hyundai Elite i20,PLATINUM,624799,48031,Petrol,2nd Owner,2018,Hyundai
+801,Hyundai Grand i10,PLATINUM,472399,45578,Petrol,1st Owner,2016,Hyundai
+802,Hyundai Fluidic Verna,GOLD,408888,70070,Diesel,1st Owner,2012,Hyundai
+803,Hyundai i10 Magna,GOLD,288888,28000,Petrol,1st Owner,2015,Hyundai
+804,Chevrolet Sail 1.2,GOLD,198888,30030,Diesel,1st Owner,2013,Chevrolet
+805,Ford Endeavor 4X4,GOLD,898888,25000,Diesel,1st Owner,2011,Ford
+806,BMW 3 Series,GOLD,1148888,8000,Diesel,1st Owner,2013,BMW
+807,Chevrolet Spark,GOLD,79000,53000,Petrol,2nd Owner,2010,Chevrolet
+808,Honda City,GOLD,97000,68000,Petrol,2nd Owner,2007,Honda
+809,Hyundai Santro GLS,GOLD,135000,58000,Petrol,2nd Owner,2007,Hyundai
+810,Hyundai Elite i20,PLATINUM,687199,28648,Petrol,1st Owner,2016,Hyundai
+811,Hyundai i10 Magna,PLATINUM,387099,59819,Petrol,2nd Owner,2015,Hyundai
+812,Maruti Suzuki Baleno,PLATINUM,650599,19574,Petrol,2nd Owner,2018,Maruti
+813,Tata Hexa,PLATINUM,1705799,46337,Diesel,2nd Owner,2019,Tata
+814,Volkswagen Polo,PLATINUM,526899,73563,Petrol,1st Owner,2015,Volkswagen
+815,Honda Jazz,PLATINUM,612799,51428,Petrol,2nd Owner,2016,Honda
+816,Maruti Suzuki Alto,PLATINUM,269099,95754,Petrol,2nd Owner,2016,Maruti
+817,Tata Hexa,PLATINUM,1952199,34533,Diesel,2nd Owner,2019,Tata
+818,Maruti Suzuki Baleno,PLATINUM,646299,50154,Petrol,2nd Owner,2016,Maruti
+819,Maruti Suzuki Celerio,PLATINUM,425899,23492,Petrol,2nd Owner,2016,Maruti
+820,Maruti Suzuki Celerio,PLATINUM,496399,37739,Petrol,2nd Owner,2017,Maruti
+821,Maruti Suzuki Celerio,PLATINUM,393799,46178,Petrol,3rd Owner,2015,Maruti
+822,Maruti Suzuki Baleno,PLATINUM,619599,42893,Petrol,1st Owner,2017,Maruti
+823,Maruti Suzuki Alto,PLATINUM,423599,57875,Petrol+CNG,2nd Owner,2019,Maruti
+824,Hyundai Venue,PLATINUM,831999,4832,Petrol,2nd Owner,2020,Hyundai
+825,Renault Triber,PLATINUM,695099,27805,Petrol,2nd Owner,2019,Renault
+826,Hyundai Xcent S,GOLD,390000,71000,Diesel,1st Owner,2014,Hyundai
+827,Toyota Fortuner 3.0,GOLD,1350000,140000,Diesel,2nd Owner,2013,Toyota
+828,Toyota Innova 2.5,GOLD,1350000,70000,Diesel,2nd Owner,2014,Toyota
+829,Honda City ZX,GOLD,250000,75000,Petrol,2nd Owner,2008,Honda
+830,Maruti Suzuki Alto,GOLD,145000,57000,Petrol,2nd Owner,2009,Maruti
+831,Maruti Suzuki Vitara,GOLD,980000,57000,Diesel,2nd Owner,2018,Maruti
+832,Hyundai Creta 1.4,GOLD,980000,91000,Diesel,2nd Owner,2018,Hyundai
+833,Hyundai i10 Sportz,GOLD,195000,86000,Petrol,2nd Owner,2009,Hyundai
+834,Maruti Suzuki Alto,PLATINUM,261499,68844,Petrol,2nd Owner,2013,Maruti
+835,Honda Jazz,PLATINUM,649699,37070,Petrol,1st Owner,2017,Honda
+836,Hyundai Grand i10,PLATINUM,494099,20393,Petrol,2nd Owner,2017,Hyundai
+837,Maruti Suzuki Alto,PLATINUM,313399,22244,Petrol,2nd Owner,2017,Maruti
+838,Toyota Fortuner,PLATINUM,2122099,47024,Diesel,1st Owner,2016,Toyota
+839,Hyundai Elite i20,PLATINUM,552799,64707,Petrol,2nd Owner,2015,Hyundai
+840,Ford Ecosport,PLATINUM,490099,52149,Petrol,2nd Owner,2013,Ford
+841,Hyundai Grand i10,PLATINUM,638599,11203,Petrol,2nd Owner,2017,Hyundai
+842,Maruti Suzuki Alto,PLATINUM,374799,18071,Petrol,2nd Owner,2015,Maruti
+843,Hyundai Elite i20,PLATINUM,517499,81412,Petrol,2nd Owner,2016,Hyundai
+844,Maruti Suzuki Swift,PLATINUM,553899,41912,Petrol,2nd Owner,2016,Maruti
+845,Maruti Suzuki Swift,PLATINUM,579199,32516,Petrol,2nd Owner,2016,Maruti
+846,Hyundai Grand i10,PLATINUM,531999,41552,Petrol,2nd Owner,2015,Hyundai
+847,Hyundai Grand i10,PLATINUM,496199,21790,Petrol,1st Owner,2018,Hyundai
+848,Maruti Suzuki Baleno,PLATINUM,659099,34010,Petrol,2nd Owner,2019,Maruti
+849,Hyundai Elite i20,PLATINUM,534799,50050,Petrol,2nd Owner,2016,Hyundai
+850,Maruti Suzuki Ertiga,GOLD,950000,2000,Petrol,2nd Owner,2019,Maruti
+851,Maruti Suzuki Swift,GOLD,265000,71000,Petrol,2nd Owner,2010,Maruti
+852,Hyundai i20 Asta,GOLD,650000,52000,Diesel,2nd Owner,2015,Hyundai
+853,Maruti Suzuki Swift,GOLD,650000,35000,Petrol,2nd Owner,2018,Maruti
+854,Renault Kwid RXT,GOLD,290000,41000,Petrol,2nd Owner,2016,Renault
+855,Tata Indigo LX,GOLD,74999,125000,Diesel,2nd Owner,2003,Tata
+856,Maruti Suzuki Alto,GOLD,155000,85000,Petrol,2nd Owner,2006,Maruti
+857,Chevrolet Optra,GOLD,69000,85000,Petrol,2nd Owner,2005,Chevrolet
+858,Hyundai Grand i10,PLATINUM,496199,21790,Petrol,1st Owner,2018,Hyundai
+859,Maruti Suzuki Wagon,PLATINUM,298599,75822,Petrol,1st Owner,2011,Maruti
+860,Tata Tiago,PLATINUM,490199,28589,Petrol,1st Owner,2016,Tata
+861,Renault Kwid,PLATINUM,422999,15883,Petrol,2nd Owner,2017,Renault
+862,Hyundai Elite i20,PLATINUM,656399,63648,Petrol,1st Owner,2016,Hyundai
+863,Maruti Suzuki Vitara,PLATINUM,688599,156931,Diesel,2nd Owner,2016,Maruti
+864,Maruti Suzuki XL6,PLATINUM,1113299,13829,Petrol,2nd Owner,2019,Maruti
+865,Maruti Suzuki Baleno,PLATINUM,608399,28361,Petrol,1st Owner,2016,Maruti
+866,Hyundai Grand i10,PLATINUM,587399,77960,Petrol,1st Owner,2017,Hyundai
+867,Maruti Suzuki Celerio,PLATINUM,449699,33473,Petrol,2nd Owner,2015,Maruti
+868,Maruti Suzuki Eeco,PLATINUM,464899,29052,Petrol,2nd Owner,2019,Maruti
+869,Maruti Suzuki Alto,PLATINUM,302699,68041,Petrol,2nd Owner,2017,Maruti
+870,Maruti Suzuki Baleno,PLATINUM,583299,61361,Petrol,2nd Owner,2015,Maruti
+871,Honda BRV,PLATINUM,877999,32218,Petrol,2nd Owner,2018,Honda
+872,Hyundai i10 Magna,PLATINUM,398499,28579,Petrol,1st Owner,2016,Hyundai
+873,Hyundai Grand i10,PLATINUM,529399,51343,Petrol,2nd Owner,2017,Hyundai
+874,Chevrolet Optra,GOLD,69000,85000,Petrol,2nd Owner,2005,Chevrolet
+875,Honda City 1.5,GOLD,700000,86868,Petrol,2nd Owner,2016,Honda
+876,Hyundai Accent,GOLD,79000,85000,Petrol,2nd Owner,2002,Hyundai
+877,Maruti Suzuki Swift,GOLD,390000,77000,Petrol,2nd Owner,2012,Maruti
+878,Honda City V,GOLD,950000,35500,Petrol,1st Owner,2017,Honda
+879,Toyota Glanza G,GOLD,725000,19942,Petrol,2nd Owner,2019,Toyota
+880,Hyundai i20 Sportz,GOLD,439000,16000,Petrol,1st Owner,2012,Hyundai
+881,Honda City ZX,GOLD,1069999,54000,CNG,1st Owner,2018,Honda
+882,Renault Kwid RxL,PLATINUM,422299,17357,Petrol,2nd Owner,2019,Renault
+883,Ford Figo Aspire,PLATINUM,589999,14517,Petrol,2nd Owner,2017,Ford
+884,Maruti Suzuki Baleno,PLATINUM,661299,13517,Petrol,1st Owner,2017,Maruti
+885,Maruti Suzuki Wagon,PLATINUM,429099,42302,Petrol,1st Owner,2017,Maruti
+886,Maruti Suzuki Celerio,PLATINUM,389399,65783,Petrol,2nd Owner,2015,Maruti
+887,Renault Lodgy,PLATINUM,629799,138716,Diesel,2nd Owner,2015,Renault
+888,Hyundai i10 Sportz,PLATINUM,397299,43339,Petrol,1st Owner,2013,Hyundai
+889,Maruti Suzuki Ignis,PLATINUM,546399,19526,Petrol,2nd Owner,2018,Maruti
+890,Maruti Suzuki Alto,PLATINUM,412999,25673,Petrol,1st Owner,2016,Maruti
+891,Maruti Suzuki Celerio,PLATINUM,402799,93304,Petrol,2nd Owner,2016,Maruti
+892,Hyundai Creta,PLATINUM,915699,94409,Diesel,2nd Owner,2019,Hyundai
+893,Maruti Suzuki Celerio,PLATINUM,361499,66799,Petrol,2nd Owner,2014,Maruti
+894,Hyundai EON,PLATINUM,357899,27339,Petrol,2nd Owner,2016,Hyundai
+895,Renault Kwid,PLATINUM,475399,9095,Petrol,2nd Owner,2018,Renault
+896,Maruti Suzuki Eeco,PLATINUM,485299,21934,Petrol,1st Owner,2019,Maruti
+897,Maruti Suzuki Baleno,PLATINUM,643599,51706,Petrol,2nd Owner,2016,Maruti
+898,Honda City ZX,GOLD,1069999,54000,CNG,1st Owner,2018,Honda
+899,Honda City ZX,GOLD,1069999,54000,CNG,1st Owner,2018,Honda
+900,Honda City ZX,GOLD,1069999,54000,CNG,1st Owner,2018,Honda
+901,Hyundai i20 Asta,GOLD,255000,90000,Petrol,2nd Owner,2009,Hyundai
+902,Tata Hexa,GOLD,1500000,85000,Diesel,2nd Owner,2019,Tata
+903,Mahindra XUV 500,GOLD,650000,89000,Diesel,2nd Owner,2014,Mahindra
+904,Hyundai Santro Xing,GOLD,175000,45000,Petrol,2nd Owner,2010,Hyundai
+905,Honda WRV VX,GOLD,735000,34000,Petrol,1st Owner,2018,Honda
+906,Maruti Suzuki Wagon,PLATINUM,438199,31281,Petrol,1st Owner,2018,Maruti
+907,Honda City,PLATINUM,924599,46312,Petrol,2nd Owner,2019,Honda
+908,Hyundai Elite i20,PLATINUM,664099,32989,Petrol,1st Owner,2018,Hyundai
+909,Renault Kwid,PLATINUM,462299,50599,Petrol,2nd Owner,2018,Renault
+910,Honda Brio,PLATINUM,438499,26127,Petrol,2nd Owner,2016,Honda
+911,Maruti Suzuki Vitara,PLATINUM,680999,58118,Diesel,2nd Owner,2016,Maruti
+912,Maruti Suzuki Alto,PLATINUM,393199,23534,Petrol,2nd Owner,2019,Maruti
+913,Maruti Suzuki Baleno,PLATINUM,646799,58978,Petrol,2nd Owner,2018,Maruti
+914,Maruti Suzuki Wagon,PLATINUM,349999,33103,Petrol,1st Owner,2014,Maruti
+915,Maruti Suzuki Eeco,PLATINUM,419599,14600,Petrol,2nd Owner,2018,Maruti
+916,Maruti Suzuki Baleno,PLATINUM,585099,26049,Petrol,2nd Owner,2016,Maruti
+917,Ford Freestyle,PLATINUM,627799,33895,Diesel,1st Owner,2018,Ford
+918,Volkswagen Polo,PLATINUM,520799,32893,Petrol,2nd Owner,2017,Volkswagen
+919,Maruti Suzuki Swift,PLATINUM,410199,61717,Petrol,3rd Owner,2013,Maruti
+920,Maruti Suzuki Wagon,PLATINUM,404399,82334,Petrol,2nd Owner,2017,Maruti
+921,Hyundai Verna,PLATINUM,682799,87381,Petrol,2nd Owner,2017,Hyundai
+922,Land Rover Range,GOLD,4490000,51000,Diesel,2nd Owner,2017,Land
+923,Honda City ZX,GOLD,150000,85000,Petrol,2nd Owner,2008,Honda
+924,Porsche Cayenne Select,GOLD,3300000,38000,Electric,1st Owner,2011,Porsche
+925,Toyota Innova 2.5,GOLD,1175000,210000,Diesel,1st Owner,2013,Toyota
+926,Maruti Suzuki Ciaz,GOLD,975000,24200,Petrol,2nd Owner,2019,Maruti
+927,MG Motors Hector,GOLD,2000000,28000,Diesel,2nd Owner,2021,MG
+928,Mahindra Bolero ZLX,GOLD,535000,135000,Diesel,2nd Owner,2012,Mahindra
+929,Ford Ecosport,PLATINUM,1045799,34642,Petrol,2nd Owner,2019,Ford
+930,Maruti Suzuki Swift,PLATINUM,410199,154104,Petrol,2nd Owner,2013,Maruti
+931,Maruti Suzuki Alto,PLATINUM,297299,61826,Petrol,2nd Owner,2016,Maruti
+932,Tata Nexon,PLATINUM,980199,44751,Diesel,2nd Owner,2018,Tata
+933,Honda Jazz,PLATINUM,794299,5183,Petrol,2nd Owner,2019,Honda
+934,Maruti Suzuki Swift,PLATINUM,411899,136082,Diesel,2nd Owner,2012,Maruti
+935,Maruti Suzuki Celerio,PLATINUM,557399,5817,Petrol,1st Owner,2019,Maruti
+936,Hyundai Creta,PLATINUM,896099,99138,Diesel,2nd Owner,2015,Hyundai
+937,Honda Jazz,PLATINUM,637699,27936,Petrol,2nd Owner,2016,Honda
+938,Maruti Suzuki Alto,PLATINUM,254499,39845,Petrol,3rd Owner,2014,Maruti
+939,Maruti Suzuki Eeco,PLATINUM,457699,15615,Petrol,2nd Owner,2019,Maruti
+940,Honda Brio,PLATINUM,361599,53158,Petrol,2nd Owner,2012,Honda
+941,Maruti Suzuki Baleno,PLATINUM,675799,16002,Petrol,2nd Owner,2019,Maruti
+942,Maruti Suzuki Wagon,PLATINUM,389499,31133,Petrol,1st Owner,2015,Maruti
+943,Maruti Suzuki Baleno,PLATINUM,625599,20172,Petrol,2nd Owner,2016,Maruti
+944,Volkswagen Polo,PLATINUM,686999,69653,Petrol,1st Owner,2013,Volkswagen
+945,Maruti Suzuki Celerio,GOLD,425000,75000,Petrol,2nd Owner,2015,Maruti
+946,Renault Pulse RxL,GOLD,350000,132000,Diesel,2nd Owner,2012,Renault
+947,Skoda Rapid 1.5,GOLD,560000,84000,Diesel,2nd Owner,2014,Skoda
+948,Maruti Suzuki SX4,GOLD,250000,147000,Petrol,2nd Owner,2007,Maruti
+949,Hyundai Santro GLS,GOLD,90000,61000,Petrol,2nd Owner,2008,Hyundai
+950,Hyundai i10 Era,GOLD,200000,56000,Petrol,2nd Owner,2012,Hyundai
+951,Mahindra KUV100 K4,GOLD,325000,108000,Diesel,2nd Owner,2018,Mahindra
+952,Hyundai i20 Era,GOLD,620000,55000,Diesel,2nd Owner,2018,Hyundai
+953,Volkswagen Ameo Comfortline,PLATINUM,519699,26023,Petrol,1st Owner,2017,Volkswagen
+954,Maruti Suzuki Alto,PLATINUM,324599,19805,Petrol,2nd Owner,2018,Maruti
+955,Maruti Suzuki Alto,PLATINUM,340199,41365,Petrol,2nd Owner,2017,Maruti
+956,Ford Ecosport,PLATINUM,693999,90001,Diesel,1st Owner,2017,Ford
+957,Hyundai EON Era,PLATINUM,310999,45285,Petrol,2nd Owner,2016,Hyundai
+958,Maruti Suzuki Ciaz,PLATINUM,722199,42441,Petrol,2nd Owner,2016,Maruti
+959,Maruti Suzuki Celerio,PLATINUM,485099,24342,Petrol,3rd Owner,2016,Maruti
+960,Maruti Suzuki Dzire,PLATINUM,614999,14308,Petrol,2nd Owner,2017,Maruti
+961,Maruti Suzuki Vitara,PLATINUM,1061399,32456,Diesel,2nd Owner,2018,Maruti
+962,Maruti Suzuki S,PLATINUM,879699,58448,Diesel,1st Owner,2018,Maruti
+963,Maruti Suzuki Ertiga,PLATINUM,755199,86576,Diesel,2nd Owner,2016,Maruti
+964,Ford Ecosport,PLATINUM,816399,50421,Petrol,2nd Owner,2018,Ford
+965,Maruti Suzuki Eeco,PLATINUM,414299,26035,Petrol,2nd Owner,2017,Maruti
+966,Tata Tiago,PLATINUM,476299,23499,Petrol,2nd Owner,2018,Tata
+967,Maruti Suzuki Baleno,PLATINUM,572599,25636,Petrol,2nd Owner,2016,Maruti
+968,Kia Seltos,PLATINUM,1644799,15023,Petrol,2nd Owner,2019,Kia
+969,Mahindra Jeep CL550,GOLD,440000,250,Diesel,2nd Owner,2020,Mahindra
+970,Volkswagen Vento Highline,GOLD,575000,66000,Petrol,2nd Owner,2015,Volkswagen
+971,Toyota Innova 2.5,GOLD,880000,85000,Diesel,2nd Owner,2015,Toyota
+972,Kia Carnival,GOLD,1500000,50000,Diesel,1st Owner,2020,Kia
+973,Hyundai Creta,GOLD,1000000,12000,Petrol,1st Owner,2021,Hyundai
+974,Chevrolet Beat,GOLD,86000,56000,Petrol,2nd Owner,2011,Chevrolet
+975,Maruti Suzuki Wagon,GOLD,89000,53000,Petrol,2nd Owner,2010,Maruti
+976,Tata Nano CNG,GOLD,90000,28000,Petrol,2nd Owner,2014,Tata
+977,Maruti Suzuki Alto,PLATINUM,352199,22584,Petrol,1st Owner,2015,Maruti
+978,Maruti Suzuki Baleno,PLATINUM,566899,22394,Petrol,2nd Owner,2017,Maruti
+979,Maruti Suzuki Dzire,PLATINUM,650699,93563,Diesel,2nd Owner,2017,Maruti
+980,Maruti Suzuki Eeco,PLATINUM,413399,10537,Petrol,2nd Owner,2017,Maruti
+981,Ford Ecosport,PLATINUM,645799,81515,Diesel,1st Owner,2016,Ford
+982,Jeep Compass,PLATINUM,1551499,24676,Diesel,2nd Owner,2017,Jeep
+983,Maruti Suzuki Alto,PLATINUM,333699,11917,Petrol,2nd Owner,2017,Maruti
+984,Maruti Suzuki Ertiga,PLATINUM,811799,69654,Diesel,2nd Owner,2016,Maruti
+985,Maruti Suzuki Alto,PLATINUM,406899,16226,Petrol,2nd Owner,2017,Maruti
+986,Ford Ecosport,PLATINUM,727299,8925,Petrol,2nd Owner,2018,Ford
+987,Honda Jazz,PLATINUM,657399,27819,Petrol,2nd Owner,2016,Honda
+988,Hyundai Grand i10,PLATINUM,637599,26543,Petrol,2nd Owner,2020,Hyundai
+989,Maruti Suzuki Dzire,PLATINUM,623799,90088,Petrol,2nd Owner,2017,Maruti
+990,Maruti Suzuki Eeco,PLATINUM,422899,34258,Petrol,2nd Owner,2018,Maruti
+991,Hyundai i20 Active,PLATINUM,576099,101744,Petrol,2nd Owner,2015,Hyundai
+992,Jeep Compass,PLATINUM,1987699,19830,Petrol,2nd Owner,2019,Jeep
+993,Ford Ikon,GOLD,39000,73000,Petrol,2nd Owner,2007,Ford
+994,Hyundai Grand i10,GOLD,475000,38000,Diesel,2nd Owner,2019,Hyundai
+995,Mahindra XUV 500,GOLD,450000,87500,Diesel,2nd Owner,2012,Mahindra
+996,Maruti Suzuki Ertiga,GOLD,650000,91000,Diesel,2nd Owner,2014,Maruti
+997,Maruti Suzuki Ritz,GOLD,326000,76000,Diesel,2nd Owner,2012,Maruti
+998,Tata Indica Vista,GOLD,170000,80000,Diesel,2nd Owner,2011,Tata
+999,Maruti Suzuki Eeco,GOLD,250000,70000,CNG,2nd Owner,2013,Maruti
+1000,Maruti Suzuki Alto,GOLD,88000,85000,Petrol,2nd Owner,2007,Maruti
+1001,MG Motors Hector,PLATINUM,1652199,13636,Petrol,1st Owner,2019,MG
+1002,Hyundai Venue,PLATINUM,1217499,21393,Petrol,2nd Owner,2019,Hyundai
+1003,Hyundai Creta,PLATINUM,1198299,76915,Diesel,2nd Owner,2017,Hyundai
+1004,Hyundai Grand i10,PLATINUM,590799,16300,Petrol,2nd Owner,2018,Hyundai
+1005,Hyundai Elite i20,PLATINUM,844999,40106,Diesel,2nd Owner,2019,Hyundai
+1006,Renault Kwid RXT,PLATINUM,328499,66461,Petrol,1st Owner,2015,Renault
+1007,Hyundai Creta,PLATINUM,769599,48182,Petrol,2nd Owner,2016,Hyundai
+1008,Hyundai Elite i20,PLATINUM,654299,41816,Petrol,1st Owner,2017,Hyundai
+1009,Hyundai i20,PLATINUM,395699,73841,Petrol,2nd Owner,2012,Hyundai
+1010,Renault Kwid RxL,PLATINUM,294799,19908,Petrol,3rd Owner,2016,Renault
+1011,Hyundai Elite i20,PLATINUM,534499,26226,Petrol,1st Owner,2018,Hyundai
+1012,Maruti Suzuki Baleno,PLATINUM,681399,43287,Petrol,2nd Owner,2016,Maruti
+1013,Datsun Redi GO,PLATINUM,415699,26527,Petrol,2nd Owner,2018,Datsun
+1014,Maruti Suzuki Alto,PLATINUM,300199,37801,Petrol,3rd Owner,2017,Maruti
+1015,Maruti Suzuki Vitara,PLATINUM,856699,54044,Diesel,2nd Owner,2017,Maruti
+1016,Ford Figo Aspire,PLATINUM,481399,29632,Petrol,2nd Owner,2017,Ford
+1017,Mahindra Xylo D2,GOLD,375000,115000,Diesel,2nd Owner,2009,Mahindra
+1018,Maruti Suzuki Eeco,GOLD,525000,13000,Petrol,2nd Owner,2020,Maruti
+1019,Maruti Suzuki Swift,GOLD,550000,42000,Diesel,2nd Owner,2018,Maruti
+1020,Hyundai i10 Magna,GOLD,229000,65000,Petrol,1st Owner,2014,Hyundai
+1021,Maruti Suzuki Alto,GOLD,275000,60000,Petrol,2nd Owner,2014,Maruti
+1022,Jeep Compass Limited,GOLD,1750000,31000,Diesel,1st Owner,2017,Jeep
+1023,Jeep Compass Limited,GOLD,1750000,31000,Diesel,1st Owner,2017,Jeep
+1024,Jeep Compass Limited,GOLD,1750000,31000,Diesel,1st Owner,2017,Jeep
